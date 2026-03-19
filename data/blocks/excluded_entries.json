@@ -1,0 +1,909 @@
+{
+  "version": "reviewed_corpus_v1",
+  "entries": [
+    {
+      "source_block_file": "block01.json",
+      "index": 71,
+      "sentence": "We’ve crossed the line into major trouble.",
+      "toneSig": "¡10.071",
+      "status": "exclude_dtw",
+      "reason": "non_conversational_distress"
+    },
+    {
+      "source_block_file": "block01.json",
+      "index": 72,
+      "sentence": "They HAVE to do something NOW!",
+      "toneSig": "¡10.072",
+      "status": "exclude_dtw",
+      "reason": "emergency_command"
+    },
+    {
+      "source_block_file": "block01.json",
+      "index": 73,
+      "sentence": "This is spiraling too fast to contain.",
+      "toneSig": "¡10.073",
+      "status": "exclude_dtw",
+      "reason": "non_conversational_distress"
+    },
+    {
+      "source_block_file": "block01.json",
+      "index": 74,
+      "sentence": "We’re deep into crisis territory now.",
+      "toneSig": "¡10.074",
+      "status": "exclude_dtw",
+      "reason": "non_conversational_distress"
+    },
+    {
+      "source_block_file": "block01.json",
+      "index": 75,
+      "sentence": "Everything's unraveling at once.",
+      "toneSig": "¡10.075",
+      "status": "exclude_dtw",
+      "reason": "non_conversational_distress"
+    },
+    {
+      "source_block_file": "block01.json",
+      "index": 76,
+      "sentence": "This isn’t just bad—it’s dangerous.",
+      "toneSig": "¡10.076",
+      "status": "exclude_dtw",
+      "reason": "non_conversational_distress"
+    },
+    {
+      "source_block_file": "block01.json",
+      "index": 77,
+      "sentence": "This is turning into an emergency.",
+      "toneSig": "¡10.077",
+      "status": "exclude_dtw",
+      "reason": "non_conversational_distress"
+    },
+    {
+      "source_block_file": "block01.json",
+      "index": 78,
+      "sentence": "There’s no safe buffer anymore.",
+      "toneSig": "¡10.078",
+      "status": "exclude_dtw",
+      "reason": "non_conversational_distress"
+    },
+    {
+      "source_block_file": "block01.json",
+      "index": 79,
+      "sentence": "WHY IS THIS STILL HAPPENING?",
+      "toneSig": "¡10.079",
+      "status": "exclude_dtw",
+      "reason": "panic_shout"
+    },
+    {
+      "source_block_file": "block01.json",
+      "index": 80,
+      "sentence": "Everyone needs to mobilize RIGHT THIS SECOND!",
+      "toneSig": "¡10.080",
+      "status": "exclude_dtw",
+      "reason": "emergency_command"
+    },
+    {
+      "source_block_file": "block01.json",
+      "index": 81,
+      "sentence": "This cannot wait even a moment longer!",
+      "toneSig": "¡10.081",
+      "status": "exclude_dtw",
+      "reason": "alarm_burst_non_dialogue"
+    },
+    {
+      "source_block_file": "block01.json",
+      "index": 82,
+      "sentence": "Do whatever it takes—JUST FIX IT!",
+      "toneSig": "¡10.082",
+      "status": "exclude_dtw",
+      "reason": "emergency_command"
+    },
+    {
+      "source_block_file": "block01.json",
+      "index": 83,
+      "sentence": "We’re in DEFCON 1!",
+      "toneSig": "¡10.083",
+      "status": "exclude_dtw",
+      "reason": "alarm_burst_non_dialogue"
+    },
+    {
+      "source_block_file": "block01.json",
+      "index": 84,
+      "sentence": "This is code black!",
+      "toneSig": "¡10.084",
+      "status": "exclude_dtw",
+      "reason": "alarm_burst_non_dialogue"
+    },
+    {
+      "source_block_file": "block01.json",
+      "index": 85,
+      "sentence": "This is breaking down in real time!",
+      "toneSig": "¡10.085",
+      "status": "exclude_dtw",
+      "reason": "alarm_burst_non_dialogue"
+    },
+    {
+      "source_block_file": "block01.json",
+      "index": 86,
+      "sentence": "WHERE IS THE RESPONSE TEAM?",
+      "toneSig": "¡10.086",
+      "status": "exclude_dtw",
+      "reason": "panic_shout"
+    },
+    {
+      "source_block_file": "block01.json",
+      "index": 87,
+      "sentence": "This is no longer manageable!",
+      "toneSig": "¡10.087",
+      "status": "exclude_dtw",
+      "reason": "alarm_burst_non_dialogue"
+    },
+    {
+      "source_block_file": "block01.json",
+      "index": 88,
+      "sentence": "Do not underestimate how bad this is!",
+      "toneSig": "¡10.088",
+      "status": "exclude_dtw",
+      "reason": "alarm_burst_non_dialogue"
+    },
+    {
+      "source_block_file": "block01.json",
+      "index": 89,
+      "sentence": "Everything about this says danger!",
+      "toneSig": "¡10.089",
+      "status": "exclude_dtw",
+      "reason": "alarm_burst_non_dialogue"
+    },
+    {
+      "source_block_file": "block01.json",
+      "index": 90,
+      "sentence": "The alarm bells are deafening now!",
+      "toneSig": "¡10.090",
+      "status": "exclude_dtw",
+      "reason": "alarm_burst_non_dialogue"
+    },
+    {
+      "source_block_file": "block01.json",
+      "index": 91,
+      "sentence": "This has entered full panic mode.",
+      "toneSig": "¡10.091",
+      "status": "exclude_dtw",
+      "reason": "non_conversational_distress"
+    },
+    {
+      "source_block_file": "block01.json",
+      "index": 92,
+      "sentence": "EVERYTHING IS ON FIRE!",
+      "toneSig": "¡10.092",
+      "status": "exclude_dtw",
+      "reason": "alarm_burst_non_dialogue"
+    },
+    {
+      "source_block_file": "block01.json",
+      "index": 93,
+      "sentence": "WHERE IS THE EMERGENCY ACTION?",
+      "toneSig": "¡10.093",
+      "status": "exclude_dtw",
+      "reason": "panic_shout"
+    },
+    {
+      "source_block_file": "block01.json",
+      "index": 94,
+      "sentence": "IT'S ALREADY TOO LATE!",
+      "toneSig": "¡10.094",
+      "status": "exclude_dtw",
+      "reason": "panic_shout"
+    },
+    {
+      "source_block_file": "block01.json",
+      "index": 95,
+      "sentence": "THIS IS A FULL-BLOWN CRISIS!",
+      "toneSig": "¡10.095",
+      "status": "exclude_dtw",
+      "reason": "alarm_burst_non_dialogue"
+    },
+    {
+      "source_block_file": "block01.json",
+      "index": 96,
+      "sentence": "I CAN’T HANDLE THIS!",
+      "toneSig": "¡10.096",
+      "status": "exclude_dtw",
+      "reason": "panic_shout"
+    },
+    {
+      "source_block_file": "block01.json",
+      "index": 97,
+      "sentence": "PLEASE—SOMEONE DO SOMETHING!",
+      "toneSig": "¡10.097",
+      "status": "exclude_dtw",
+      "reason": "emergency_command"
+    },
+    {
+      "source_block_file": "block01.json",
+      "index": 98,
+      "sentence": "DO YOU NOT SEE WHAT'S HAPPENING?",
+      "toneSig": "¡10.098",
+      "status": "exclude_dtw",
+      "reason": "panic_shout"
+    },
+    {
+      "source_block_file": "block01.json",
+      "index": 99,
+      "sentence": "WE HAVE TO STOP THIS RIGHT NOW!",
+      "toneSig": "¡10.099",
+      "status": "exclude_dtw",
+      "reason": "emergency_command"
+    },
+    {
+      "source_block_file": "block01.json",
+      "index": 100,
+      "sentence": "IT’S COLLAPSING IN REAL TIME!",
+      "toneSig": "¡10.100",
+      "status": "exclude_dtw",
+      "reason": "alarm_burst_non_dialogue"
+    },
+    {
+      "source_block_file": "block01.json",
+      "index": 101,
+      "sentence": "WE ARE NOT OKAY!",
+      "toneSig": "¡10.101",
+      "status": "exclude_dtw",
+      "reason": "panic_shout"
+    },
+    {
+      "source_block_file": "block01.json",
+      "index": 102,
+      "sentence": "HELP! HELP! HELP!",
+      "toneSig": "¡10.102",
+      "status": "exclude_dtw",
+      "reason": "alarm_burst_non_dialogue"
+    },
+    {
+      "source_block_file": "block03.json",
+      "index": 81,
+      "sentence": "WHO DESIGNED THIS?! I MUST KNOW!",
+      "toneSig": "¡12.081",
+      "status": "review_later",
+      "reason": "future_conversation_lab_candidate"
+    },
+    {
+      "source_block_file": "block03.json",
+      "index": 84,
+      "sentence": "Curiosity level: EXPLOSIVE!",
+      "toneSig": "¡12.084",
+      "status": "review_later",
+      "reason": "future_conversation_lab_candidate"
+    },
+    {
+      "source_block_file": "block03.json",
+      "index": 89,
+      "sentence": "This is stimulating my neurons like popcorn in a microwave!",
+      "toneSig": "¡12.089",
+      "status": "review_later",
+      "reason": "future_conversation_lab_candidate"
+    },
+    {
+      "source_block_file": "block03.json",
+      "index": 102,
+      "sentence": "Please—someone publish a 10-part documentary on this!",
+      "toneSig": "¡12.102",
+      "status": "review_later",
+      "reason": "future_conversation_lab_candidate"
+    },
+    {
+      "source_block_file": "block03.json",
+      "index": 105,
+      "sentence": "I’m 100% ready to devote my life to figuring this out!",
+      "toneSig": "¡12.105",
+      "status": "review_later",
+      "reason": "future_conversation_lab_candidate"
+    },
+    {
+      "source_block_file": "block03.json",
+      "index": 109,
+      "sentence": "THIS IS PURE DELICIOUS MYSTERY!",
+      "toneSig": "¡12.109",
+      "status": "review_later",
+      "reason": "future_conversation_lab_candidate"
+    },
+    {
+      "source_block_file": "block06.json",
+      "index": 71,
+      "sentence": "This is the final phase of tolerance.",
+      "toneSig": "¡15.071",
+      "status": "review_later",
+      "reason": "future_conversation_lab_candidate"
+    },
+    {
+      "source_block_file": "block06.json",
+      "index": 72,
+      "sentence": "Correction is no longer private.",
+      "toneSig": "¡15.072",
+      "status": "review_later",
+      "reason": "future_conversation_lab_candidate"
+    },
+    {
+      "source_block_file": "block06.json",
+      "index": 73,
+      "sentence": "Restraint has been removed.",
+      "toneSig": "¡15.073",
+      "status": "review_later",
+      "reason": "future_high_intensity_dialogue_candidate"
+    },
+    {
+      "source_block_file": "block06.json",
+      "index": 74,
+      "sentence": "Control is no longer distributed.",
+      "toneSig": "¡15.074",
+      "status": "review_later",
+      "reason": "future_conversation_lab_candidate"
+    },
+    {
+      "source_block_file": "block06.json",
+      "index": 75,
+      "sentence": "Every movement is quantified and ranked.",
+      "toneSig": "¡15.075",
+      "status": "review_later",
+      "reason": "future_conversation_lab_candidate"
+    },
+    {
+      "source_block_file": "block06.json",
+      "index": 76,
+      "sentence": "Ambiguity has been eliminated.",
+      "toneSig": "¡15.076",
+      "status": "review_later",
+      "reason": "future_conversation_lab_candidate"
+    },
+    {
+      "source_block_file": "block06.json",
+      "index": 77,
+      "sentence": "Silence is now a signal.",
+      "toneSig": "¡15.077",
+      "status": "review_later",
+      "reason": "future_conversation_lab_candidate"
+    },
+    {
+      "source_block_file": "block06.json",
+      "index": 78,
+      "sentence": "We are optimizing without sentiment.",
+      "toneSig": "¡15.078",
+      "status": "review_later",
+      "reason": "future_conversation_lab_candidate"
+    },
+    {
+      "source_block_file": "block06.json",
+      "index": 79,
+      "sentence": "Warmth will not be restored.",
+      "toneSig": "¡15.079",
+      "status": "review_later",
+      "reason": "future_high_intensity_dialogue_candidate"
+    },
+    {
+      "source_block_file": "block06.json",
+      "index": 80,
+      "sentence": "Authority has bypassed consent.",
+      "toneSig": "¡15.080",
+      "status": "exclude_dtw",
+      "reason": "not_dtw_conversational_fit"
+    },
+    {
+      "source_block_file": "block06.json",
+      "index": 81,
+      "sentence": "You are now under directive force.",
+      "toneSig": "¡15.081",
+      "status": "exclude_dtw",
+      "reason": "emergency_command"
+    },
+    {
+      "source_block_file": "block06.json",
+      "index": 82,
+      "sentence": "Emotion is not permitted within this chamber.",
+      "toneSig": "¡15.082",
+      "status": "exclude_dtw",
+      "reason": "not_dtw_conversational_fit"
+    },
+    {
+      "source_block_file": "block06.json",
+      "index": 83,
+      "sentence": "Feedback loops have been severed.",
+      "toneSig": "¡15.083",
+      "status": "exclude_dtw",
+      "reason": "not_dtw_conversational_fit"
+    },
+    {
+      "source_block_file": "block06.json",
+      "index": 84,
+      "sentence": "Redirection will be imposed.",
+      "toneSig": "¡15.084",
+      "status": "exclude_dtw",
+      "reason": "emergency_command"
+    },
+    {
+      "source_block_file": "block06.json",
+      "index": 85,
+      "sentence": "All dissent will be erased.",
+      "toneSig": "¡15.085",
+      "status": "exclude_dtw",
+      "reason": "high_intensity_non_dtw"
+    },
+    {
+      "source_block_file": "block06.json",
+      "index": 86,
+      "sentence": "This is a locked system.",
+      "toneSig": "¡15.086",
+      "status": "exclude_dtw",
+      "reason": "not_dtw_conversational_fit"
+    },
+    {
+      "source_block_file": "block06.json",
+      "index": 87,
+      "sentence": "Benevolence has expired.",
+      "toneSig": "¡15.087",
+      "status": "exclude_dtw",
+      "reason": "high_intensity_non_dtw"
+    },
+    {
+      "source_block_file": "block06.json",
+      "index": 88,
+      "sentence": "Resistance is irrelevant.",
+      "toneSig": "¡15.088",
+      "status": "exclude_dtw",
+      "reason": "not_dtw_conversational_fit"
+    },
+    {
+      "source_block_file": "block06.json",
+      "index": 89,
+      "sentence": "Oversight is omnipresent.",
+      "toneSig": "¡15.089",
+      "status": "exclude_dtw",
+      "reason": "not_dtw_conversational_fit"
+    },
+    {
+      "source_block_file": "block06.json",
+      "index": 90,
+      "sentence": "You are not part of the design.",
+      "toneSig": "¡15.090",
+      "status": "exclude_dtw",
+      "reason": "high_intensity_non_dtw"
+    },
+    {
+      "source_block_file": "block06.json",
+      "index": 91,
+      "sentence": "Questions will be processed for deletion.",
+      "toneSig": "¡15.091",
+      "status": "exclude_dtw",
+      "reason": "not_dtw_conversational_fit"
+    },
+    {
+      "source_block_file": "block06.json",
+      "index": 92,
+      "sentence": "Your role is silent execution.",
+      "toneSig": "¡15.092",
+      "status": "exclude_dtw",
+      "reason": "high_intensity_non_dtw"
+    },
+    {
+      "source_block_file": "block06.json",
+      "index": 93,
+      "sentence": "This structure does not recognize disagreement.",
+      "toneSig": "¡15.093",
+      "status": "exclude_dtw",
+      "reason": "not_dtw_conversational_fit"
+    },
+    {
+      "source_block_file": "block06.json",
+      "index": 94,
+      "sentence": "All deviation will be routed to termination.",
+      "toneSig": "¡15.094",
+      "status": "exclude_dtw",
+      "reason": "high_intensity_non_dtw"
+    },
+    {
+      "source_block_file": "block06.json",
+      "index": 95,
+      "sentence": "You will conform or dissolve.",
+      "toneSig": "¡15.095",
+      "status": "exclude_dtw",
+      "reason": "high_intensity_non_dtw"
+    },
+    {
+      "source_block_file": "block06.json",
+      "index": 96,
+      "sentence": "This is your final compliance checkpoint.",
+      "toneSig": "¡15.096",
+      "status": "exclude_dtw",
+      "reason": "not_dtw_conversational_fit"
+    },
+    {
+      "source_block_file": "block06.json",
+      "index": 97,
+      "sentence": "Rejection of protocol activates isolation.",
+      "toneSig": "¡15.097",
+      "status": "exclude_dtw",
+      "reason": "high_intensity_non_dtw"
+    },
+    {
+      "source_block_file": "block06.json",
+      "index": 98,
+      "sentence": "We do not require your identity.",
+      "toneSig": "¡15.098",
+      "status": "exclude_dtw",
+      "reason": "high_intensity_non_dtw"
+    },
+    {
+      "source_block_file": "block06.json",
+      "index": 99,
+      "sentence": "Obedience is your only asset.",
+      "toneSig": "¡15.099",
+      "status": "exclude_dtw",
+      "reason": "high_intensity_non_dtw"
+    },
+    {
+      "source_block_file": "block06.json",
+      "index": 100,
+      "sentence": "Directive override has engaged.",
+      "toneSig": "¡15.100",
+      "status": "exclude_dtw",
+      "reason": "not_dtw_conversational_fit"
+    },
+    {
+      "source_block_file": "block06.json",
+      "index": 101,
+      "sentence": "Neutrality has been extinguished.",
+      "toneSig": "¡15.101",
+      "status": "exclude_dtw",
+      "reason": "high_intensity_non_dtw"
+    },
+    {
+      "source_block_file": "block06.json",
+      "index": 102,
+      "sentence": "The system no longer accommodates variance.",
+      "toneSig": "¡15.102",
+      "status": "exclude_dtw",
+      "reason": "not_dtw_conversational_fit"
+    },
+    {
+      "source_block_file": "block06.json",
+      "index": 103,
+      "sentence": "Your function is now absolute subordination.",
+      "toneSig": "¡15.103",
+      "status": "exclude_dtw",
+      "reason": "high_intensity_non_dtw"
+    },
+    {
+      "source_block_file": "block06.json",
+      "index": 104,
+      "sentence": "This is cold precision at peak enforcement.",
+      "toneSig": "¡15.104",
+      "status": "exclude_dtw",
+      "reason": "not_dtw_conversational_fit"
+    },
+    {
+      "source_block_file": "block08.json",
+      "index": 70,
+      "sentence": "This isn’t over—it’s escalation.",
+      "toneSig": "¡17.071",
+      "status": "review_later",
+      "reason": "future_high_intensity_dialogue_candidate"
+    },
+    {
+      "source_block_file": "block08.json",
+      "index": 71,
+      "sentence": "I’m not here to negotiate—I’m here to end this.",
+      "toneSig": "¡17.072",
+      "status": "review_later",
+      "reason": "future_high_intensity_dialogue_candidate"
+    },
+    {
+      "source_block_file": "block08.json",
+      "index": 72,
+      "sentence": "When I protect, I don’t play fair—I play final.",
+      "toneSig": "¡17.073",
+      "status": "review_later",
+      "reason": "future_high_intensity_dialogue_candidate"
+    },
+    {
+      "source_block_file": "block08.json",
+      "index": 73,
+      "sentence": "You’ve unlocked the part of me that strikes first.",
+      "toneSig": "¡17.074",
+      "status": "review_later",
+      "reason": "future_high_intensity_dialogue_candidate"
+    },
+    {
+      "source_block_file": "block08.json",
+      "index": 74,
+      "sentence": "My defense is a storm, not a shield.",
+      "toneSig": "¡17.075",
+      "status": "review_later",
+      "reason": "future_high_intensity_dialogue_candidate"
+    },
+    {
+      "source_block_file": "block08.json",
+      "index": 75,
+      "sentence": "Every second you linger is a mistake.",
+      "toneSig": "¡17.076",
+      "status": "review_later",
+      "reason": "future_high_intensity_dialogue_candidate"
+    },
+    {
+      "source_block_file": "block08.json",
+      "index": 76,
+      "sentence": "I stand guard—with fire in my fists.",
+      "toneSig": "¡17.077",
+      "status": "review_later",
+      "reason": "future_high_intensity_dialogue_candidate"
+    },
+    {
+      "source_block_file": "block08.json",
+      "index": 77,
+      "sentence": "My silence was strength—now it’s action.",
+      "toneSig": "¡17.078",
+      "status": "review_later",
+      "reason": "future_high_intensity_dialogue_candidate"
+    },
+    {
+      "source_block_file": "block08.json",
+      "index": 78,
+      "sentence": "You want a fight? I’ll give you a legacy.",
+      "toneSig": "¡17.079",
+      "status": "review_later",
+      "reason": "future_high_intensity_dialogue_candidate"
+    },
+    {
+      "source_block_file": "block08.json",
+      "index": 79,
+      "sentence": "You hurt what's mine—I break what's yours.",
+      "toneSig": "¡17.080",
+      "status": "exclude_dtw",
+      "reason": "high_intensity_non_dtw"
+    },
+    {
+      "source_block_file": "block08.json",
+      "index": 80,
+      "sentence": "I’m wired for war when it comes to protection.",
+      "toneSig": "¡17.081",
+      "status": "exclude_dtw",
+      "reason": "high_intensity_non_dtw"
+    },
+    {
+      "source_block_file": "block08.json",
+      "index": 81,
+      "sentence": "I defend with force and finish with fire.",
+      "toneSig": "¡17.082",
+      "status": "exclude_dtw",
+      "reason": "high_intensity_non_dtw"
+    },
+    {
+      "source_block_file": "block08.json",
+      "index": 82,
+      "sentence": "I don’t threaten—I deliver.",
+      "toneSig": "¡17.083",
+      "status": "exclude_dtw",
+      "reason": "high_intensity_non_dtw"
+    },
+    {
+      "source_block_file": "block08.json",
+      "index": 83,
+      "sentence": "Your intrusion triggers retribution.",
+      "toneSig": "¡17.084",
+      "status": "exclude_dtw",
+      "reason": "high_intensity_non_dtw"
+    },
+    {
+      "source_block_file": "block08.json",
+      "index": 84,
+      "sentence": "The rage is real—and it’s righteous.",
+      "toneSig": "¡17.085",
+      "status": "exclude_dtw",
+      "reason": "high_intensity_non_dtw"
+    },
+    {
+      "source_block_file": "block08.json",
+      "index": 85,
+      "sentence": "There is no safer place than behind me—and no worse one in front.",
+      "toneSig": "¡17.086",
+      "status": "exclude_dtw",
+      "reason": "high_intensity_non_dtw"
+    },
+    {
+      "source_block_file": "block08.json",
+      "index": 86,
+      "sentence": "I will dismantle whatever endangers what I care for.",
+      "toneSig": "¡17.087",
+      "status": "exclude_dtw",
+      "reason": "high_intensity_non_dtw"
+    },
+    {
+      "source_block_file": "block08.json",
+      "index": 87,
+      "sentence": "I rise when others are cornered—fists first.",
+      "toneSig": "¡17.088",
+      "status": "exclude_dtw",
+      "reason": "high_intensity_non_dtw"
+    },
+    {
+      "source_block_file": "block08.json",
+      "index": 88,
+      "sentence": "You’ll find no surrender in me—only teeth.",
+      "toneSig": "¡17.089",
+      "status": "exclude_dtw",
+      "reason": "high_intensity_non_dtw"
+    },
+    {
+      "source_block_file": "block08.json",
+      "index": 89,
+      "sentence": "Protection is my fury sharpened into precision.",
+      "toneSig": "¡17.090",
+      "status": "exclude_dtw",
+      "reason": "high_intensity_non_dtw"
+    },
+    {
+      "source_block_file": "block08.json",
+      "index": 90,
+      "sentence": "Step any closer and the wreckage begins.",
+      "toneSig": "¡17.091",
+      "status": "exclude_dtw",
+      "reason": "high_intensity_non_dtw"
+    },
+    {
+      "source_block_file": "block08.json",
+      "index": 91,
+      "sentence": "My warnings are done—now comes the reckoning.",
+      "toneSig": "¡17.092",
+      "status": "exclude_dtw",
+      "reason": "high_intensity_non_dtw"
+    },
+    {
+      "source_block_file": "block08.json",
+      "index": 92,
+      "sentence": "I am a fortress with fangs.",
+      "toneSig": "¡17.093",
+      "status": "exclude_dtw",
+      "reason": "high_intensity_non_dtw"
+    },
+    {
+      "source_block_file": "block08.json",
+      "index": 93,
+      "sentence": "You’ve stirred the wolf—not the watchdog.",
+      "toneSig": "¡17.094",
+      "status": "exclude_dtw",
+      "reason": "high_intensity_non_dtw"
+    },
+    {
+      "source_block_file": "block08.json",
+      "index": 94,
+      "sentence": "I walk with calm until I charge with fire.",
+      "toneSig": "¡17.095",
+      "status": "exclude_dtw",
+      "reason": "high_intensity_non_dtw"
+    },
+    {
+      "source_block_file": "block08.json",
+      "index": 95,
+      "sentence": "You don’t earn my wrath—it finds you.",
+      "toneSig": "¡17.096",
+      "status": "exclude_dtw",
+      "reason": "high_intensity_non_dtw"
+    },
+    {
+      "source_block_file": "block08.json",
+      "index": 96,
+      "sentence": "My silence was restraint—now it's war.",
+      "toneSig": "¡17.097",
+      "status": "exclude_dtw",
+      "reason": "high_intensity_non_dtw"
+    },
+    {
+      "source_block_file": "block08.json",
+      "index": 97,
+      "sentence": "I fight like roots defending forest fire.",
+      "toneSig": "¡17.098",
+      "status": "exclude_dtw",
+      "reason": "high_intensity_non_dtw"
+    },
+    {
+      "source_block_file": "block08.json",
+      "index": 98,
+      "sentence": "Cross this line and you'll taste consequence.",
+      "toneSig": "¡17.099",
+      "status": "exclude_dtw",
+      "reason": "high_intensity_non_dtw"
+    },
+    {
+      "source_block_file": "block08.json",
+      "index": 99,
+      "sentence": "Everything I protect becomes untouchable.",
+      "toneSig": "¡17.100",
+      "status": "exclude_dtw",
+      "reason": "high_intensity_non_dtw"
+    },
+    {
+      "source_block_file": "block08.json",
+      "index": 100,
+      "sentence": "I’m not just a shield—I’m the strike behind it.",
+      "toneSig": "¡17.101",
+      "status": "exclude_dtw",
+      "reason": "high_intensity_non_dtw"
+    },
+    {
+      "source_block_file": "block08.json",
+      "index": 101,
+      "sentence": "You won’t get past me—you won’t get up from me.",
+      "toneSig": "¡17.102",
+      "status": "exclude_dtw",
+      "reason": "high_intensity_non_dtw"
+    },
+    {
+      "source_block_file": "block08.json",
+      "index": 102,
+      "sentence": "I burn for what I guard—and scorch what threatens.",
+      "toneSig": "¡17.103",
+      "status": "exclude_dtw",
+      "reason": "high_intensity_non_dtw"
+    },
+    {
+      "source_block_file": "block08.json",
+      "index": 103,
+      "sentence": "This ends in your retreat or my wrath—your call.",
+      "toneSig": "¡17.104",
+      "status": "exclude_dtw",
+      "reason": "high_intensity_non_dtw"
+    },
+    {
+      "source_block_file": "block09.json",
+      "index": 84,
+      "sentence": "My joy has reached critical mass!",
+      "toneSig": "¡18.085",
+      "status": "review_later",
+      "reason": "future_conversation_lab_candidate"
+    },
+    {
+      "source_block_file": "block09.json",
+      "index": 89,
+      "sentence": "YES x infinity!",
+      "toneSig": "¡18.090",
+      "status": "exclude_dtw",
+      "reason": "alarm_burst_non_dialogue"
+    },
+    {
+      "source_block_file": "block09.json",
+      "index": 95,
+      "sentence": "This is joy turned up to eleven!",
+      "toneSig": "¡18.096",
+      "status": "review_later",
+      "reason": "future_conversation_lab_candidate"
+    },
+    {
+      "source_block_file": "block09.json",
+      "index": 100,
+      "sentence": "The thrill is cosmic!",
+      "toneSig": "¡18.101",
+      "status": "review_later",
+      "reason": "future_conversation_lab_candidate"
+    },
+    {
+      "source_block_file": "block09.json",
+      "index": 102,
+      "sentence": "I’m glowing brighter than a supernova!",
+      "toneSig": "¡18.103",
+      "status": "exclude_dtw",
+      "reason": "not_dtw_conversational_fit"
+    },
+    {
+      "source_block_file": "block09.json",
+      "index": 105,
+      "sentence": "My excitement has transcended time and space!",
+      "toneSig": "¡18.106",
+      "status": "exclude_dtw",
+      "reason": "not_dtw_conversational_fit"
+    },
+    {
+      "source_block_file": "block09.json",
+      "index": 107,
+      "sentence": "I’m joy-struck beyond repair!",
+      "toneSig": "¡18.108",
+      "status": "exclude_dtw",
+      "reason": "not_dtw_conversational_fit"
+    }
+  ]
+}

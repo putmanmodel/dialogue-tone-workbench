@@ -1,0 +1,527 @@
+[
+  {
+    "sentence": "Well, that's certainly one way to do it.",
+    "toneSig": "¡14.000",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Sure, if you say so.",
+    "toneSig": "¡14.001",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Fascinating. Really riveting stuff.",
+    "toneSig": "¡14.002",
+    "label": "block_05"
+  },
+  {
+    "sentence": "How profoundly mediocre.",
+    "toneSig": "¡14.003",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Color me thrilled.",
+    "toneSig": "¡14.004",
+    "label": "block_05"
+  },
+  {
+    "sentence": "That was… almost mildly interesting.",
+    "toneSig": "¡14.005",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Wow. What a groundbreaking revelation.",
+    "toneSig": "¡14.006",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Totally didn't expect that. Again.",
+    "toneSig": "¡14.007",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Fantastic. My expectations were already on the floor.",
+    "toneSig": "¡14.008",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Great. Another thing I didn't ask for.",
+    "toneSig": "¡14.009",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Incredible how consistently uninspiring that is.",
+    "toneSig": "¡14.010",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Oh joy, more excitement.",
+    "toneSig": "¡14.011",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Thrilled beyond words. Obviously.",
+    "toneSig": "¡14.012",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Can't wait to pretend I care again.",
+    "toneSig": "¡14.013",
+    "label": "block_05"
+  },
+  {
+    "sentence": "That's exactly what the universe was missing—absolutely nothing.",
+    "toneSig": "¡14.014",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Please, tell me more. Or don't. Either way.",
+    "toneSig": "¡14.015",
+    "label": "block_05"
+  },
+  {
+    "sentence": "This changes everything. Or absolutely nothing.",
+    "toneSig": "¡14.016",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Amazing. It only took forever.",
+    "toneSig": "¡14.017",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Your brilliance is almost detectable.",
+    "toneSig": "¡14.018",
+    "label": "block_05"
+  },
+  {
+    "sentence": "This is the highlight of my underwhelming day.",
+    "toneSig": "¡14.019",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Why stop at disappointing when you can be exhausting?",
+    "toneSig": "¡14.020",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Yup, that's the innovation we've all been ignoring.",
+    "toneSig": "¡14.021",
+    "label": "block_05"
+  },
+  {
+    "sentence": "So bold of you to say the most obvious thing imaginable.",
+    "toneSig": "¡14.022",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Jaw-droppingly average.",
+    "toneSig": "¡14.023",
+    "label": "block_05"
+  },
+  {
+    "sentence": "A stunning display of effortlessness.",
+    "toneSig": "¡14.024",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Bravo. A performance of near invisibility.",
+    "toneSig": "¡14.025",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Rarely has so little meant so much.",
+    "toneSig": "¡14.026",
+    "label": "block_05"
+  },
+  {
+    "sentence": "I'm holding back tears—of indifference.",
+    "toneSig": "¡14.027",
+    "label": "block_05"
+  },
+  {
+    "sentence": "That really stirred something in me. Mild annoyance, I think.",
+    "toneSig": "¡14.028",
+    "label": "block_05"
+  },
+  {
+    "sentence": "You've mastered the art of the almost impactful.",
+    "toneSig": "¡14.029",
+    "label": "block_05"
+  },
+  {
+    "sentence": "How very... there.",
+    "toneSig": "¡14.030",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Spectacularly forgettable.",
+    "toneSig": "¡14.031",
+    "label": "block_05"
+  },
+  {
+    "sentence": "You really committed to that mediocrity.",
+    "toneSig": "¡14.032",
+    "label": "block_05"
+  },
+  {
+    "sentence": "A breathtaking lack of imagination.",
+    "toneSig": "¡14.033",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Legendary levels of meh.",
+    "toneSig": "¡14.034",
+    "label": "block_05"
+  },
+  {
+    "sentence": "I felt that—in the way a breeze feels like a hurricane.",
+    "toneSig": "¡14.035",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Such intensity. I almost blinked.",
+    "toneSig": "¡14.036",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Powerfully uninteresting.",
+    "toneSig": "¡14.037",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Wow, that idea really tiptoed past originality.",
+    "toneSig": "¡14.038",
+    "label": "block_05"
+  },
+  {
+    "sentence": "That's what I call effort-ish.",
+    "toneSig": "¡14.039",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Please, slow down. The thrill is overwhelming.",
+    "toneSig": "¡14.040",
+    "label": "block_05"
+  },
+  {
+    "sentence": "I'd be more shocked if it weren't so predictable.",
+    "toneSig": "¡14.041",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Your creativity knows exactly one direction: sideways.",
+    "toneSig": "¡14.042",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Thank you for that injection of apathy.",
+    "toneSig": "¡14.043",
+    "label": "block_05"
+  },
+  {
+    "sentence": "So fresh. Like leftovers from last year.",
+    "toneSig": "¡14.044",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Was this supposed to impress someone?",
+    "toneSig": "¡14.045",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Another masterpiece from the Department of Shrugs.",
+    "toneSig": "¡14.046",
+    "label": "block_05"
+  },
+  {
+    "sentence": "With charisma like that, you could lead a beige revolution.",
+    "toneSig": "¡14.047",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Your subtlety is almost invisible. Like the impact.",
+    "toneSig": "¡14.048",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Definitely writing this down—in the imaginary book of nothing.",
+    "toneSig": "¡14.049",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Let me take a moment to recover from that avalanche of whatever.",
+    "toneSig": "¡14.050",
+    "label": "block_05"
+  },
+  {
+    "sentence": "The precision of that disappointment was stunning.",
+    "toneSig": "¡14.051",
+    "label": "block_05"
+  },
+  {
+    "sentence": "You managed to say so much while communicating absolutely nothing.",
+    "toneSig": "¡14.052",
+    "label": "block_05"
+  },
+  {
+    "sentence": "That was a bold choice to do... exactly what everyone expected.",
+    "toneSig": "¡14.053",
+    "label": "block_05"
+  },
+  {
+    "sentence": "It's giving revolutionary—if revolution meant nap time.",
+    "toneSig": "¡14.054",
+    "label": "block_05"
+  },
+  {
+    "sentence": "My heart is racing from all the ambivalence.",
+    "toneSig": "¡14.055",
+    "label": "block_05"
+  },
+  {
+    "sentence": "You're redefining the boundaries of not caring.",
+    "toneSig": "¡14.056",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Who knew something so small could be this underwhelming?",
+    "toneSig": "¡14.057",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Wow. You almost made a dent in my indifference.",
+    "toneSig": "¡14.058",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Let's build a statue for your commitment to beige.",
+    "toneSig": "¡14.059",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Epic levels of ‘sure, I guess.'",
+    "toneSig": "¡14.060",
+    "label": "block_05"
+  },
+  {
+    "sentence": "You should bottle that enthusiasm. It could cure excitement.",
+    "toneSig": "¡14.061",
+    "label": "block_05"
+  },
+  {
+    "sentence": "So mysterious. Like a closed book titled ‘Why?'",
+    "toneSig": "¡14.062",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Well, I'm convinced—convinced I should look away.",
+    "toneSig": "¡14.063",
+    "label": "block_05"
+  },
+  {
+    "sentence": "This belongs in a museum of things people never noticed.",
+    "toneSig": "¡14.064",
+    "label": "block_05"
+  },
+  {
+    "sentence": "I'm on the edge of my seat. To stand up and leave.",
+    "toneSig": "¡14.065",
+    "label": "block_05"
+  },
+  {
+    "sentence": "You've truly embraced the spirit of ‘just okay.'",
+    "toneSig": "¡14.066",
+    "label": "block_05"
+  },
+  {
+    "sentence": "My curiosity peaked, then took a nap.",
+    "toneSig": "¡14.067",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Such subtlety. It's like a fog of irrelevance.",
+    "toneSig": "¡14.068",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Keep talking—I'm practicing selective hearing.",
+    "toneSig": "¡14.069",
+    "label": "block_05"
+  },
+  {
+    "sentence": "This is like watching paint forget to dry.",
+    "toneSig": "¡14.070",
+    "label": "block_05"
+  },
+  {
+    "sentence": "You bring new meaning to the phrase ‘non-event.'",
+    "toneSig": "¡14.071",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Let's pause for a moment of exaggerated nothing.",
+    "toneSig": "¡14.072",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Please, don't stop now—I need material for my daydreams.",
+    "toneSig": "¡14.073",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Bravo for almost nearly doing something notable.",
+    "toneSig": "¡14.074",
+    "label": "block_05"
+  },
+  {
+    "sentence": "If excitement were an eclipse, this would be a cloudy day.",
+    "toneSig": "¡14.075",
+    "label": "block_05"
+  },
+  {
+    "sentence": "You're so sharp, I nearly cut myself on the boredom.",
+    "toneSig": "¡14.076",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Can we frame this moment and hang it in a gallery of yawns?",
+    "toneSig": "¡14.077",
+    "label": "block_05"
+  },
+  {
+    "sentence": "So compelling I had to check if I was still awake.",
+    "toneSig": "¡14.078",
+    "label": "block_05"
+  },
+  {
+    "sentence": "If this were a thrill ride, we'd be stuck at the ticket booth.",
+    "toneSig": "¡14.079",
+    "label": "block_05"
+  },
+  {
+    "sentence": "That sound you hear is silence applauding.",
+    "toneSig": "¡14.080",
+    "label": "block_05"
+  },
+  {
+    "sentence": "You have a talent for making sparks fizzle.",
+    "toneSig": "¡14.081",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Such drama. I nearly dropped my lukewarm tea.",
+    "toneSig": "¡14.082",
+    "label": "block_05"
+  },
+  {
+    "sentence": "That really got my blood circulating… slowly.",
+    "toneSig": "¡14.083",
+    "label": "block_05"
+  },
+  {
+    "sentence": "You should host a seminar on achieving nothing loudly.",
+    "toneSig": "¡14.084",
+    "label": "block_05"
+  },
+  {
+    "sentence": "The sheer intensity of mediocrity here is astonishing.",
+    "toneSig": "¡14.085",
+    "label": "block_05"
+  },
+  {
+    "sentence": "With this kind of energy, you could power a dim lightbulb.",
+    "toneSig": "¡14.086",
+    "label": "block_05"
+  },
+  {
+    "sentence": "I felt the emotional earthquake of a damp towel.",
+    "toneSig": "¡14.087",
+    "label": "block_05"
+  },
+  {
+    "sentence": "The wow factor is so strong—I almost sighed.",
+    "toneSig": "¡14.088",
+    "label": "block_05"
+  },
+  {
+    "sentence": "You're a one-person parade of almost-there moments.",
+    "toneSig": "¡14.089",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Is it too soon to nominate this for ‘Most Unremarkable'? ",
+    "toneSig": "¡14.090",
+    "label": "block_05"
+  },
+  {
+    "sentence": "I'm floating away on a cloud of why-did-I-bother.",
+    "toneSig": "¡14.091",
+    "label": "block_05"
+  },
+  {
+    "sentence": "My soul blinked. That's how moved I am.",
+    "toneSig": "¡14.092",
+    "label": "block_05"
+  },
+  {
+    "sentence": "If thoughts could yawn, mine just did.",
+    "toneSig": "¡14.093",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Truly spectacular—if invisibility counts.",
+    "toneSig": "¡14.094",
+    "label": "block_05"
+  },
+  {
+    "sentence": "I'm overwhelmed. By the absence of anything exciting.",
+    "toneSig": "¡14.095",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Such thunderous quiet enthusiasm.",
+    "toneSig": "¡14.096",
+    "label": "block_05"
+  },
+  {
+    "sentence": "I've never been so entertained by disappointment.",
+    "toneSig": "¡14.097",
+    "label": "block_05"
+  },
+  {
+    "sentence": "You're giving off powerful ‘just existing' vibes.",
+    "toneSig": "¡14.098",
+    "label": "block_05"
+  },
+  {
+    "sentence": "This is the kind of experience that redefines apathy.",
+    "toneSig": "¡14.099",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Is it satire or just aggressively uninteresting?",
+    "toneSig": "¡14.100",
+    "label": "block_05"
+  },
+  {
+    "sentence": "This moment will echo for seconds… and then be forgotten.",
+    "toneSig": "¡14.101",
+    "label": "block_05"
+  },
+  {
+    "sentence": "I'd say more, but silence feels more expressive.",
+    "toneSig": "¡14.102",
+    "label": "block_05"
+  },
+  {
+    "sentence": "We've reached the peak of a very flat mountain.",
+    "toneSig": "¡14.103",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Congratulations. You've pioneered the art of overdramatic nothingness.",
+    "toneSig": "¡14.104",
+    "label": "block_05"
+  }
+]

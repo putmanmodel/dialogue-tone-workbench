@@ -1,0 +1,537 @@
+[
+  {
+    "sentence": "I'm not entirely sure.",
+    "toneSig": "¡13.000",
+    "label": "block_04"
+  },
+  {
+    "sentence": "That could work, maybe.",
+    "toneSig": "¡13.001",
+    "label": "block_04"
+  },
+  {
+    "sentence": "Well, it's possible, I suppose.",
+    "toneSig": "¡13.002",
+    "label": "block_04"
+  },
+  {
+    "sentence": "Hmm, I'll think about that.",
+    "toneSig": "¡13.003",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I guess that's one option.",
+    "toneSig": "¡13.004",
+    "label": "block_04"
+  },
+  {
+    "sentence": "That's... interesting.",
+    "toneSig": "¡13.005",
+    "label": "block_04"
+  },
+  {
+    "sentence": "Let me get back to you on that.",
+    "toneSig": "¡13.006",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I'll need a bit more time.",
+    "toneSig": "¡13.007",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I'm not sure I'm the best person for that.",
+    "toneSig": "¡13.008",
+    "label": "block_04"
+  },
+  {
+    "sentence": "Possibly, but I'd rather double-check first.",
+    "toneSig": "¡13.009",
+    "label": "block_04"
+  },
+  {
+    "sentence": "It's a little unclear to me right now.",
+    "toneSig": "¡13.010",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I can't quite decide.",
+    "toneSig": "¡13.011",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I'm leaning toward no, but not certain.",
+    "toneSig": "¡13.012",
+    "label": "block_04"
+  },
+  {
+    "sentence": "Can I consider it a bit longer?",
+    "toneSig": "¡13.013",
+    "label": "block_04"
+  },
+  {
+    "sentence": "That's not an immediate yes.",
+    "toneSig": "¡13.014",
+    "label": "block_04"
+  },
+  {
+    "sentence": "It's worth a conversation, perhaps.",
+    "toneSig": "¡13.015",
+    "label": "block_04"
+  },
+  {
+    "sentence": "Let me sleep on it.",
+    "toneSig": "¡13.016",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I want to be careful before committing.",
+    "toneSig": "¡13.017",
+    "label": "block_04"
+  },
+  {
+    "sentence": "Can we revisit that later?",
+    "toneSig": "¡13.018",
+    "label": "block_04"
+  },
+  {
+    "sentence": "Hmm, it's a touch tricky.",
+    "toneSig": "¡13.019",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I wouldn't want to rush into that.",
+    "toneSig": "¡13.020",
+    "label": "block_04"
+  },
+  {
+    "sentence": "There's a lot to weigh here.",
+    "toneSig": "¡13.021",
+    "label": "block_04"
+  },
+  {
+    "sentence": "Maybe... with reservations.",
+    "toneSig": "¡13.022",
+    "label": "block_04"
+  },
+  {
+    "sentence": "It's not exactly a strong yes.",
+    "toneSig": "¡13.023",
+    "label": "block_04"
+  },
+  {
+    "sentence": "That's putting me in a bit of a bind.",
+    "toneSig": "¡13.024",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I'll need to gather more context.",
+    "toneSig": "¡13.025",
+    "label": "block_04"
+  },
+  {
+    "sentence": "It's not entirely within my comfort zone.",
+    "toneSig": "¡13.026",
+    "label": "block_04"
+  },
+  {
+    "sentence": "The timing might not be ideal.",
+    "toneSig": "¡13.027",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I need to make sure it's feasible.",
+    "toneSig": "¡13.028",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I'm a tad uneasy about that suggestion.",
+    "toneSig": "¡13.029",
+    "label": "block_04"
+  },
+  {
+    "sentence": "There's just a slight complication.",
+    "toneSig": "¡13.030",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I'm hesitant, but trying to stay open.",
+    "toneSig": "¡13.031",
+    "label": "block_04"
+  },
+  {
+    "sentence": "It's hard to commit without more details.",
+    "toneSig": "¡13.032",
+    "label": "block_04"
+  },
+  {
+    "sentence": "That's not a simple yes for me.",
+    "toneSig": "¡13.033",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I've got a few concerns I should mention.",
+    "toneSig": "¡13.034",
+    "label": "block_04"
+  },
+  {
+    "sentence": "Let's not rush to a decision.",
+    "toneSig": "¡13.035",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I don't want to give a firm answer quite yet.",
+    "toneSig": "¡13.036",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I'm feeling a little unsure.",
+    "toneSig": "¡13.037",
+    "label": "block_04"
+  },
+  {
+    "sentence": "There's something holding me back.",
+    "toneSig": "¡13.038",
+    "label": "block_04"
+  },
+  {
+    "sentence": "It's not a complete no... but it's close.",
+    "toneSig": "¡13.039",
+    "label": "block_04"
+  },
+  {
+    "sentence": "It's just a bit outside my usual approach.",
+    "toneSig": "¡13.040",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I'm not sure that aligns with my thinking.",
+    "toneSig": "¡13.041",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I'm slightly conflicted.",
+    "toneSig": "¡13.042",
+    "label": "block_04"
+  },
+  {
+    "sentence": "There's hesitation creeping in.",
+    "toneSig": "¡13.043",
+    "label": "block_04"
+  },
+  {
+    "sentence": "Let's take a pause here.",
+    "toneSig": "¡13.044",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I'm unsure whether it's the right path.",
+    "toneSig": "¡13.045",
+    "label": "block_04"
+  },
+  {
+    "sentence": "There's a mild discomfort I'm feeling.",
+    "toneSig": "¡13.046",
+    "label": "block_04"
+  },
+  {
+    "sentence": "Maybe it deserves a deeper conversation.",
+    "toneSig": "¡13.047",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I'm not rejecting it outright.",
+    "toneSig": "¡13.048",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I'm feeling caught in the middle.",
+    "toneSig": "¡13.049",
+    "label": "block_04"
+  },
+  {
+    "sentence": "It's testing the limits of my enthusiasm.",
+    "toneSig": "¡13.050",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I might need to decline gracefully.",
+    "toneSig": "¡13.051",
+    "label": "block_04"
+  },
+  {
+    "sentence": "Let's tread carefully here.",
+    "toneSig": "¡13.052",
+    "label": "block_04"
+  },
+  {
+    "sentence": "It's not sitting well, if I'm honest.",
+    "toneSig": "¡13.053",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I don't want to say no... but...",
+    "toneSig": "¡13.054",
+    "label": "block_04"
+  },
+  {
+    "sentence": "This feels more complicated than expected.",
+    "toneSig": "¡13.055",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I've got mixed feelings about that.",
+    "toneSig": "¡13.056",
+    "label": "block_04"
+  },
+  {
+    "sentence": "The hesitation is becoming more prominent.",
+    "toneSig": "¡13.057",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I feel torn between two instincts.",
+    "toneSig": "¡13.058",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I'm tiptoeing around this choice.",
+    "toneSig": "¡13.059",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I wish I felt more certain.",
+    "toneSig": "¡13.060",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I might politely bow out.",
+    "toneSig": "¡13.061",
+    "label": "block_04"
+  },
+  {
+    "sentence": "Let me gently say I'm leaning against it.",
+    "toneSig": "¡13.062",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I'm struggling to support that confidently.",
+    "toneSig": "¡13.063",
+    "label": "block_04"
+  },
+  {
+    "sentence": "There's a bit of a mental tug-of-war happening.",
+    "toneSig": "¡13.064",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I wouldn't want to mislead anyone.",
+    "toneSig": "¡13.065",
+    "label": "block_04"
+  },
+  {
+    "sentence": "This is pressing against my boundaries.",
+    "toneSig": "¡13.066",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I'm uncertain enough to want to disengage.",
+    "toneSig": "¡13.067",
+    "label": "block_04"
+  },
+  {
+    "sentence": "My polite resistance is growing stronger.",
+    "toneSig": "¡13.068",
+    "label": "block_04"
+  },
+  {
+    "sentence": "It's edging toward a delicate refusal.",
+    "toneSig": "¡13.069",
+    "label": "block_04"
+  },
+  {
+    "sentence": "There's no simple way to say this...",
+    "toneSig": "¡13.070",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I feel obligated to express my unease.",
+    "toneSig": "¡13.071",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I wish I could be more affirmative.",
+    "toneSig": "¡13.072",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I feel the need to step back, cautiously.",
+    "toneSig": "¡13.073",
+    "label": "block_04"
+  },
+  {
+    "sentence": "Even with best intentions, I can't say yes.",
+    "toneSig": "¡13.074",
+    "label": "block_04"
+  },
+  {
+    "sentence": "My reluctance is reaching a tipping point.",
+    "toneSig": "¡13.075",
+    "label": "block_04"
+  },
+  {
+    "sentence": "With deep respect, I must hold back.",
+    "toneSig": "¡13.076",
+    "label": "block_04"
+  },
+  {
+    "sentence": "My comfort level has taken a hit.",
+    "toneSig": "¡13.077",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I have to gently push back.",
+    "toneSig": "¡13.078",
+    "label": "block_04"
+  },
+  {
+    "sentence": "This feels wrong, even with polite framing.",
+    "toneSig": "¡13.079",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I'm nearing a hard stop, respectfully.",
+    "toneSig": "¡13.080",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I would like to say no, very gently.",
+    "toneSig": "¡13.081",
+    "label": "block_04"
+  },
+  {
+    "sentence": "The hesitation has become a near refusal.",
+    "toneSig": "¡13.082",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I deeply regret not feeling supportive here.",
+    "toneSig": "¡13.083",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I'm circling around a definitive no.",
+    "toneSig": "¡13.084",
+    "label": "block_04"
+  },
+  {
+    "sentence": "This pushes me far beyond comfort.",
+    "toneSig": "¡13.085",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I'm trying to remain polite, but I disagree.",
+    "toneSig": "¡13.086",
+    "label": "block_04"
+  },
+  {
+    "sentence": "There's no path forward for me on that.",
+    "toneSig": "¡13.087",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I cannot endorse that-respectfully, of course.",
+    "toneSig": "¡13.088",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I'm politely stepping away from this entirely.",
+    "toneSig": "¡13.089",
+    "label": "block_04"
+  },
+  {
+    "sentence": "The internal resistance is overwhelming.",
+    "toneSig": "¡13.090",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I must firmly-but kindly-decline.",
+    "toneSig": "¡13.091",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I'm bowing out, with sincere apologies.",
+    "toneSig": "¡13.092",
+    "label": "block_04"
+  },
+  {
+    "sentence": "This crosses my threshold for engagement.",
+    "toneSig": "¡13.093",
+    "label": "block_04"
+  },
+  {
+    "sentence": "My politeness remains, but the answer is no.",
+    "toneSig": "¡13.094",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I'm gently but resolutely backing away.",
+    "toneSig": "¡13.095",
+    "label": "block_04"
+  },
+  {
+    "sentence": "There's simply no place for me in this decision.",
+    "toneSig": "¡13.096",
+    "label": "block_04"
+  },
+  {
+    "sentence": "My instincts are all waving little red flags.",
+    "toneSig": "¡13.097",
+    "label": "block_04"
+  },
+  {
+    "sentence": "Please accept my most courteous refusal.",
+    "toneSig": "¡13.098",
+    "label": "block_04"
+  },
+  {
+    "sentence": "The polite hesitation has crystallized into finality.",
+    "toneSig": "¡13.099",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I can't participate-and I say that with kindness.",
+    "toneSig": "¡13.100",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I'm stepping back fully, with warm regard.",
+    "toneSig": "¡13.101",
+    "label": "block_04"
+  },
+  {
+    "sentence": "This is me leaving the conversation-gracefully.",
+    "toneSig": "¡13.102",
+    "label": "block_04"
+  },
+  {
+    "sentence": "Let me wrap this in a bow and say: I must decline.",
+    "toneSig": "¡13.103",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I respectfully distance myself, without harshness.",
+    "toneSig": "¡13.104",
+    "label": "block_04"
+  },
+  {
+    "sentence": "This is beyond hesitation-it's full retreat, smiling.",
+    "toneSig": "¡13.105",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I have nothing but well-wishes and a firm no.",
+    "toneSig": "¡13.106",
+    "label": "block_04"
+  }
+]

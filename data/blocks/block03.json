@@ -1,0 +1,552 @@
+[
+  {
+    "sentence": "So what's going on here?",
+    "toneSig": "¡12.000",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I suppose that could be worth a glance.",
+    "toneSig": "¡12.001",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I might take a closer look, just out of curiosity.",
+    "toneSig": "¡12.002",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Hmm, that’s slightly unusual.",
+    "toneSig": "¡12.003",
+    "label": "block_03"
+  },
+  {
+    "sentence": "This looks like it could be interesting.",
+    "toneSig": "¡12.004",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Let me just peek at this for a moment.",
+    "toneSig": "¡12.005",
+    "label": "block_03"
+  },
+  {
+    "sentence": "What happens if I press this button?",
+    "toneSig": "¡12.006",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Okay, now I'm mildly intrigued.",
+    "toneSig": "¡12.007",
+    "label": "block_03"
+  },
+  {
+    "sentence": "That seems... not boring.",
+    "toneSig": "¡12.008",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I wonder why it was set up that way.",
+    "toneSig": "¡12.009",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Is there a reason this works like that?",
+    "toneSig": "¡12.010",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I didn't expect that outcome—what’s behind it?",
+    "toneSig": "¡12.011",
+    "label": "block_03"
+  },
+  {
+    "sentence": "There's something subtle happening here.",
+    "toneSig": "¡12.012",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Wait, this pattern looks familiar.",
+    "toneSig": "¡12.013",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Let’s see if there’s more to this than meets the eye.",
+    "toneSig": "¡12.014",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Could there be another layer I’m not seeing?",
+    "toneSig": "¡12.015",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Maybe I missed a key detail earlier.",
+    "toneSig": "¡12.016",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I’m starting to feel like this has a story.",
+    "toneSig": "¡12.017",
+    "label": "block_03"
+  },
+  {
+    "sentence": "It’s quiet, but there’s something curious here.",
+    "toneSig": "¡12.018",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Hmm… what’s the logic behind this setup?",
+    "toneSig": "¡12.019",
+    "label": "block_03"
+  },
+  {
+    "sentence": "This could be smarter than I thought.",
+    "toneSig": "¡12.020",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Let’s dig in just a bit further.",
+    "toneSig": "¡12.021",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Okay, this warrants a second pass.",
+    "toneSig": "¡12.022",
+    "label": "block_03"
+  },
+  {
+    "sentence": "The more I look, the more questions pop up.",
+    "toneSig": "¡12.023",
+    "label": "block_03"
+  },
+  {
+    "sentence": "It’s subtle, but it’s pulling me in.",
+    "toneSig": "¡12.024",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I wonder who thought of doing it this way.",
+    "toneSig": "¡12.025",
+    "label": "block_03"
+  },
+  {
+    "sentence": "This structure is oddly satisfying.",
+    "toneSig": "¡12.026",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I want to know the 'why' behind this.",
+    "toneSig": "¡12.027",
+    "label": "block_03"
+  },
+  {
+    "sentence": "There’s a quiet brilliance to it.",
+    "toneSig": "¡12.028",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I bet there’s a quirky backstory involved.",
+    "toneSig": "¡12.029",
+    "label": "block_03"
+  },
+  {
+    "sentence": "There’s something oddly compelling here.",
+    "toneSig": "¡12.030",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Now I’m officially intrigued.",
+    "toneSig": "¡12.031",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Is anyone else noticing this?",
+    "toneSig": "¡12.032",
+    "label": "block_03"
+  },
+  {
+    "sentence": "This detail is too specific to be random.",
+    "toneSig": "¡12.033",
+    "label": "block_03"
+  },
+  {
+    "sentence": "It’s giving off 'hidden genius' energy.",
+    "toneSig": "¡12.034",
+    "label": "block_03"
+  },
+  {
+    "sentence": "So many tiny choices—each feels intentional.",
+    "toneSig": "¡12.035",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I can't stop thinking about what led to this moment.",
+    "toneSig": "¡12.036",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I’m smiling just imagining the thinking behind it.",
+    "toneSig": "¡12.037",
+    "label": "block_03"
+  },
+  {
+    "sentence": "This has charming layers I didn’t expect.",
+    "toneSig": "¡12.038",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I feel like there’s a clever twist waiting to be found.",
+    "toneSig": "¡12.039",
+    "label": "block_03"
+  },
+  {
+    "sentence": "It’s like a breadcrumb trail—where does it lead?",
+    "toneSig": "¡12.040",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I need to unpack this whole system now.",
+    "toneSig": "¡12.041",
+    "label": "block_03"
+  },
+  {
+    "sentence": "There's got to be some wild logic at work here.",
+    "toneSig": "¡12.042",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Whoever made this clearly had fun with it.",
+    "toneSig": "¡12.043",
+    "label": "block_03"
+  },
+  {
+    "sentence": "It’s almost begging me to figure it out.",
+    "toneSig": "¡12.044",
+    "label": "block_03"
+  },
+  {
+    "sentence": "This is an itch I absolutely must scratch.",
+    "toneSig": "¡12.045",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Okay, I’m hooked—tell me everything!",
+    "toneSig": "¡12.046",
+    "label": "block_03"
+  },
+  {
+    "sentence": "This rabbit hole is calling my name.",
+    "toneSig": "¡12.047",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I can sense delightful weirdness just below the surface.",
+    "toneSig": "¡12.048",
+    "label": "block_03"
+  },
+  {
+    "sentence": "The curiosity levels have officially spiked.",
+    "toneSig": "¡12.049",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I have questions—lots of them.",
+    "toneSig": "¡12.050",
+    "label": "block_03"
+  },
+  {
+    "sentence": "This is the start of a glorious unraveling, isn’t it?",
+    "toneSig": "¡12.051",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Everything here is delightfully suspicious.",
+    "toneSig": "¡12.052",
+    "label": "block_03"
+  },
+  {
+    "sentence": "There’s something magical happening and I want in.",
+    "toneSig": "¡12.053",
+    "label": "block_03"
+  },
+  {
+    "sentence": "What inspired this chaos—and can I meet them?",
+    "toneSig": "¡12.054",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Every piece feels like part of a larger puzzle.",
+    "toneSig": "¡12.055",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I’m vibrating with low-level wonder.",
+    "toneSig": "¡12.056",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I’m chasing ideas like fireflies right now.",
+    "toneSig": "¡12.057",
+    "label": "block_03"
+  },
+  {
+    "sentence": "This is deliciously cryptic!",
+    "toneSig": "¡12.058",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I’m on a personal mission to unlock this mystery.",
+    "toneSig": "¡12.059",
+    "label": "block_03"
+  },
+  {
+    "sentence": "It’s like a mystery novel, but interactive.",
+    "toneSig": "¡12.060",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I think this might be brilliant in disguise.",
+    "toneSig": "¡12.061",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I want to reverse engineer this immediately!",
+    "toneSig": "¡12.062",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I’m borderline obsessed already.",
+    "toneSig": "¡12.063",
+    "label": "block_03"
+  },
+  {
+    "sentence": "There's probably a hundred stories behind this setup.",
+    "toneSig": "¡12.064",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Was this intentional or accidental genius?",
+    "toneSig": "¡12.065",
+    "label": "block_03"
+  },
+  {
+    "sentence": "There’s some spicy design logic here, and I need to taste it.",
+    "toneSig": "¡12.066",
+    "label": "block_03"
+  },
+  {
+    "sentence": "If curiosity were a sport, I’d be in peak form.",
+    "toneSig": "¡12.067",
+    "label": "block_03"
+  },
+  {
+    "sentence": "This might be the most interesting thing I’ve seen all week!",
+    "toneSig": "¡12.068",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Why does this make me wildly excited?",
+    "toneSig": "¡12.069",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I NEED TO KNOW WHAT’S GOING ON!",
+    "toneSig": "¡12.070",
+    "label": "block_03"
+  },
+  {
+    "sentence": "This is a treasure chest and I’ve just found the key!",
+    "toneSig": "¡12.071",
+    "label": "block_03"
+  },
+  {
+    "sentence": "It’s absolutely bursting with curiosity bait!",
+    "toneSig": "¡12.072",
+    "label": "block_03"
+  },
+  {
+    "sentence": "My brain is dancing around possibilities right now!",
+    "toneSig": "¡12.073",
+    "label": "block_03"
+  },
+  {
+    "sentence": "There's a party of thoughts happening in my head!",
+    "toneSig": "¡12.074",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Is it weird that I’m having so much fun just wondering?",
+    "toneSig": "¡12.075",
+    "label": "block_03"
+  },
+  {
+    "sentence": "This is sparking a full-on detective montage in my brain!",
+    "toneSig": "¡12.076",
+    "label": "block_03"
+  },
+  {
+    "sentence": "There are mysteries here, and I am READY!",
+    "toneSig": "¡12.077",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Forget chill—I am passionately invested!",
+    "toneSig": "¡12.078",
+    "label": "block_03"
+  },
+  {
+    "sentence": "This is a full-blown delightful brain-tease!",
+    "toneSig": "¡12.079",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I’m practically giddy right now!",
+    "toneSig": "¡12.080",
+    "label": "block_03"
+  },
+  {
+    "sentence": "WHO DESIGNED THIS?! I MUST KNOW!",
+    "toneSig": "¡12.081",
+    "label": "block_03"
+  },
+  {
+    "sentence": "This is so clever I want to write a fan letter!",
+    "toneSig": "¡12.082",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I could study this for HOURS!",
+    "toneSig": "¡12.083",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Curiosity level: EXPLOSIVE!",
+    "toneSig": "¡12.084",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Someone stop me before I start diagramming everything!",
+    "toneSig": "¡12.085",
+    "label": "block_03"
+  },
+  {
+    "sentence": "This is one giant curiosity puzzle—and I’m living for it!",
+    "toneSig": "¡12.086",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I'm in awe of how confusingly beautiful this is!",
+    "toneSig": "¡12.087",
+    "label": "block_03"
+  },
+  {
+    "sentence": "If I don’t figure this out, I’ll lose sleep!",
+    "toneSig": "¡12.088",
+    "label": "block_03"
+  },
+  {
+    "sentence": "This is stimulating my neurons like popcorn in a microwave!",
+    "toneSig": "¡12.089",
+    "label": "block_03"
+  },
+  {
+    "sentence": "It’s like intellectual fireworks!",
+    "toneSig": "¡12.090",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I’m basically Sherlock Holmes now!",
+    "toneSig": "¡12.091",
+    "label": "block_03"
+  },
+  {
+    "sentence": "My brain refuses to stop spinning ideas!",
+    "toneSig": "¡12.092",
+    "label": "block_03"
+  },
+  {
+    "sentence": "This is ART disguised as logic!",
+    "toneSig": "¡12.093",
+    "label": "block_03"
+  },
+  {
+    "sentence": "There is genius hiding in plain sight!",
+    "toneSig": "¡12.094",
+    "label": "block_03"
+  },
+  {
+    "sentence": "It’s like falling in love—with a conundrum!",
+    "toneSig": "¡12.095",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Tell me everything—every detail, every story!",
+    "toneSig": "¡12.096",
+    "label": "block_03"
+  },
+  {
+    "sentence": "My curiosity is screaming in joyful anticipation!",
+    "toneSig": "¡12.097",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Every piece is delicious brain candy!",
+    "toneSig": "¡12.098",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I swear this thing is flirting with my frontal lobe!",
+    "toneSig": "¡12.099",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I need a decoder ring, a map, and maybe a cape!",
+    "toneSig": "¡12.100",
+    "label": "block_03"
+  },
+  {
+    "sentence": "This might be the most fascinating nonsense ever created!",
+    "toneSig": "¡12.101",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Please—someone publish a 10-part documentary on this!",
+    "toneSig": "¡12.102",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I could turn this entire thing into a TED Talk!",
+    "toneSig": "¡12.103",
+    "label": "block_03"
+  },
+  {
+    "sentence": "My soul is intrigued to its core!",
+    "toneSig": "¡12.104",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I’m 100% ready to devote my life to figuring this out!",
+    "toneSig": "¡12.105",
+    "label": "block_03"
+  },
+  {
+    "sentence": "This deserves a research grant just for the vibes!",
+    "toneSig": "¡12.106",
+    "label": "block_03"
+  },
+  {
+    "sentence": "My heart is doing cartwheels of wonder!",
+    "toneSig": "¡12.107",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I’m bursting with curious joy!",
+    "toneSig": "¡12.108",
+    "label": "block_03"
+  },
+  {
+    "sentence": "THIS IS PURE DELICIOUS MYSTERY!",
+    "toneSig": "¡12.109",
+    "label": "block_03"
+  }
+]

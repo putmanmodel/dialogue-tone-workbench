@@ -1,0 +1,527 @@
+[
+  {
+    "sentence": "That's fine, I guess.",
+    "toneSig": "¡19.001",
+    "label": "block_10"
+  },
+  {
+    "sentence": "Sure, whatever works for you.",
+    "toneSig": "¡19.002",
+    "label": "block_10"
+  },
+  {
+    "sentence": "No big deal.",
+    "toneSig": "¡19.003",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I'm used to it by now.",
+    "toneSig": "¡19.004",
+    "label": "block_10"
+  },
+  {
+    "sentence": "It doesn't really matter anymore.",
+    "toneSig": "¡19.005",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I expected as much.",
+    "toneSig": "¡19.006",
+    "label": "block_10"
+  },
+  {
+    "sentence": "Same old story.",
+    "toneSig": "¡19.007",
+    "label": "block_10"
+  },
+  {
+    "sentence": "Not surprised in the slightest.",
+    "toneSig": "¡19.008",
+    "label": "block_10"
+  },
+  {
+    "sentence": "Would've been nice to be asked first.",
+    "toneSig": "¡19.009",
+    "label": "block_10"
+  },
+  {
+    "sentence": "It always seems to go this way.",
+    "toneSig": "¡19.010",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I'm keeping my thoughts to myself.",
+    "toneSig": "¡19.011",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I've learned not to expect much.",
+    "toneSig": "¡19.012",
+    "label": "block_10"
+  },
+  {
+    "sentence": "That's how it usually plays out.",
+    "toneSig": "¡19.013",
+    "label": "block_10"
+  },
+  {
+    "sentence": "Apparently, I'm invisible here.",
+    "toneSig": "¡19.014",
+    "label": "block_10"
+  },
+  {
+    "sentence": "It’s becoming a pattern.",
+    "toneSig": "¡19.015",
+    "label": "block_10"
+  },
+  {
+    "sentence": "Not that anyone notices.",
+    "toneSig": "¡19.016",
+    "label": "block_10"
+  },
+  {
+    "sentence": "Interesting how that keeps happening.",
+    "toneSig": "¡19.017",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I guess my input wasn’t needed.",
+    "toneSig": "¡19.018",
+    "label": "block_10"
+  },
+  {
+    "sentence": "They rarely think twice about it.",
+    "toneSig": "¡19.019",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I'm tired of pretending it’s okay.",
+    "toneSig": "¡19.020",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I shouldn't be this used to being ignored.",
+    "toneSig": "¡19.021",
+    "label": "block_10"
+  },
+  {
+    "sentence": "There's a quiet bitterness under the surface.",
+    "toneSig": "¡19.022",
+    "label": "block_10"
+  },
+  {
+    "sentence": "Feels like being brushed aside, again.",
+    "toneSig": "¡19.023",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I’ve stopped speaking because no one listens.",
+    "toneSig": "¡19.024",
+    "label": "block_10"
+  },
+  {
+    "sentence": "It’s frustrating how expected this behavior is.",
+    "toneSig": "¡19.025",
+    "label": "block_10"
+  },
+  {
+    "sentence": "Nice to know where I stand.",
+    "toneSig": "¡19.026",
+    "label": "block_10"
+  },
+  {
+    "sentence": "It stings more each time.",
+    "toneSig": "¡19.027",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I keep showing up, but it doesn't matter.",
+    "toneSig": "¡19.028",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I’ve given a lot, and received little.",
+    "toneSig": "¡19.029",
+    "label": "block_10"
+  },
+  {
+    "sentence": "Hard to believe how consistently I'm overlooked.",
+    "toneSig": "¡19.030",
+    "label": "block_10"
+  },
+  {
+    "sentence": "They wouldn't notice if I stopped trying.",
+    "toneSig": "¡19.031",
+    "label": "block_10"
+  },
+  {
+    "sentence": "Apparently, consideration’s too much to ask.",
+    "toneSig": "¡19.032",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I’m growing tired of the double standards.",
+    "toneSig": "¡19.033",
+    "label": "block_10"
+  },
+  {
+    "sentence": "The silence speaks volumes.",
+    "toneSig": "¡19.034",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I’ve been swallowing my thoughts too long.",
+    "toneSig": "¡19.035",
+    "label": "block_10"
+  },
+  {
+    "sentence": "Somehow, I’m always on the outside.",
+    "toneSig": "¡19.036",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I feel like a placeholder, not a person.",
+    "toneSig": "¡19.037",
+    "label": "block_10"
+  },
+  {
+    "sentence": "They talk, but never listen.",
+    "toneSig": "¡19.038",
+    "label": "block_10"
+  },
+  {
+    "sentence": "If I vanished, would they even care?",
+    "toneSig": "¡19.039",
+    "label": "block_10"
+  },
+  {
+    "sentence": "It’s getting harder to smile through this.",
+    "toneSig": "¡19.040",
+    "label": "block_10"
+  },
+  {
+    "sentence": "Disregard is starting to feel like a habit.",
+    "toneSig": "¡19.041",
+    "label": "block_10"
+  },
+  {
+    "sentence": "Being sidelined feels routine now.",
+    "toneSig": "¡19.042",
+    "label": "block_10"
+  },
+  {
+    "sentence": "They only notice when they need something.",
+    "toneSig": "¡19.043",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I’m not here for decoration.",
+    "toneSig": "¡19.044",
+    "label": "block_10"
+  },
+  {
+    "sentence": "Funny how loyalty goes unnoticed.",
+    "toneSig": "¡19.045",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I’m always the last to know—if at all.",
+    "toneSig": "¡19.046",
+    "label": "block_10"
+  },
+  {
+    "sentence": "The silence I keep is louder than they realize.",
+    "toneSig": "¡19.047",
+    "label": "block_10"
+  },
+  {
+    "sentence": "Being taken for granted isn't flattering.",
+    "toneSig": "¡19.048",
+    "label": "block_10"
+  },
+  {
+    "sentence": "So many chances—none offered to me.",
+    "toneSig": "¡19.049",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I wonder how they'd react if I finally said something.",
+    "toneSig": "¡19.050",
+    "label": "block_10"
+  },
+  {
+    "sentence": "My patience isn't infinite.",
+    "toneSig": "¡19.051",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I've been polite for too long.",
+    "toneSig": "¡19.052",
+    "label": "block_10"
+  },
+  {
+    "sentence": "It’s exhausting pretending this doesn’t bother me.",
+    "toneSig": "¡19.053",
+    "label": "block_10"
+  },
+  {
+    "sentence": "Every slight chips a little more off my trust.",
+    "toneSig": "¡19.054",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I play nice, but it’s costing me.",
+    "toneSig": "¡19.055",
+    "label": "block_10"
+  },
+  {
+    "sentence": "Respect shouldn’t have to be demanded.",
+    "toneSig": "¡19.056",
+    "label": "block_10"
+  },
+  {
+    "sentence": "My generosity is wearing thin.",
+    "toneSig": "¡19.057",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I won’t apologize for feeling mistreated.",
+    "toneSig": "¡19.058",
+    "label": "block_10"
+  },
+  {
+    "sentence": "They won’t see it until I stop showing up.",
+    "toneSig": "¡19.059",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I’ve been quietly stewing while they parade around.",
+    "toneSig": "¡19.060",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I shouldn’t have to beg for basic decency.",
+    "toneSig": "¡19.061",
+    "label": "block_10"
+  },
+  {
+    "sentence": "Each shrug burns a little deeper.",
+    "toneSig": "¡19.062",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I feel like I’m the only one trying.",
+    "toneSig": "¡19.063",
+    "label": "block_10"
+  },
+  {
+    "sentence": "Gratitude seems foreign to them.",
+    "toneSig": "¡19.064",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I gave more than I should have.",
+    "toneSig": "¡19.065",
+    "label": "block_10"
+  },
+  {
+    "sentence": "It’s not bitterness—it’s the truth.",
+    "toneSig": "¡19.066",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I’ve let it slide too many times.",
+    "toneSig": "¡19.067",
+    "label": "block_10"
+  },
+  {
+    "sentence": "There’s a heaviness they never see.",
+    "toneSig": "¡19.068",
+    "label": "block_10"
+  },
+  {
+    "sentence": "They bask in benefits I provide and never acknowledge.",
+    "toneSig": "¡19.069",
+    "label": "block_10"
+  },
+  {
+    "sentence": "It’s not a grudge—it’s the result of their choices.",
+    "toneSig": "¡19.070",
+    "label": "block_10"
+  },
+  {
+    "sentence": "They’ll never admit what they’ve ignored.",
+    "toneSig": "¡19.071",
+    "label": "block_10"
+  },
+  {
+    "sentence": "How easy it is for them to dismiss me.",
+    "toneSig": "¡19.072",
+    "label": "block_10"
+  },
+  {
+    "sentence": "My silence is full of pointed meaning.",
+    "toneSig": "¡19.073",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I’m done making excuses for their neglect.",
+    "toneSig": "¡19.074",
+    "label": "block_10"
+  },
+  {
+    "sentence": "Beneath every smile lies withheld hurt.",
+    "toneSig": "¡19.075",
+    "label": "block_10"
+  },
+  {
+    "sentence": "My restraint is reaching its limit.",
+    "toneSig": "¡19.076",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I’ve been too gracious for too long.",
+    "toneSig": "¡19.077",
+    "label": "block_10"
+  },
+  {
+    "sentence": "Let them bask in my tolerance—it won’t last.",
+    "toneSig": "¡19.078",
+    "label": "block_10"
+  },
+  {
+    "sentence": "They push boundaries I never gave them.",
+    "toneSig": "¡19.079",
+    "label": "block_10"
+  },
+  {
+    "sentence": "My forgiveness isn't infinite.",
+    "toneSig": "¡19.080",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I seethe quietly while they laugh carelessly.",
+    "toneSig": "¡19.081",
+    "label": "block_10"
+  },
+  {
+    "sentence": "They taught me what being undervalued feels like.",
+    "toneSig": "¡19.082",
+    "label": "block_10"
+  },
+  {
+    "sentence": "If only they felt the weight of my silence.",
+    "toneSig": "¡19.083",
+    "label": "block_10"
+  },
+  {
+    "sentence": "My tolerance is no longer gentle.",
+    "toneSig": "¡19.084",
+    "label": "block_10"
+  },
+  {
+    "sentence": "They mistake quiet for weakness.",
+    "toneSig": "¡19.085",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I’m calm, but not okay.",
+    "toneSig": "¡19.086",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I have fury beneath the courtesy.",
+    "toneSig": "¡19.087",
+    "label": "block_10"
+  },
+  {
+    "sentence": "The smile is masking something they should fear.",
+    "toneSig": "¡19.088",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I’ve had enough of being the bigger person.",
+    "toneSig": "¡19.089",
+    "label": "block_10"
+  },
+  {
+    "sentence": "Let them learn what absence feels like.",
+    "toneSig": "¡19.090",
+    "label": "block_10"
+  },
+  {
+    "sentence": "They’ll miss me—but only when it’s too late.",
+    "toneSig": "¡19.091",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I’m no longer soft toward their offenses.",
+    "toneSig": "¡19.092",
+    "label": "block_10"
+  },
+  {
+    "sentence": "They pushed too far and smiled while doing it.",
+    "toneSig": "¡19.093",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I won’t stay polite for their comfort.",
+    "toneSig": "¡19.094",
+    "label": "block_10"
+  },
+  {
+    "sentence": "My civility is cracking under the pressure.",
+    "toneSig": "¡19.095",
+    "label": "block_10"
+  },
+  {
+    "sentence": "They’ll soon meet the version of me they buried.",
+    "toneSig": "¡19.096",
+    "label": "block_10"
+  },
+  {
+    "sentence": "My anger wears a quiet suit—but it’s real.",
+    "toneSig": "¡19.097",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I’m done hiding the fire under the stillness.",
+    "toneSig": "¡19.098",
+    "label": "block_10"
+  },
+  {
+    "sentence": "There’s no grace left to offer.",
+    "toneSig": "¡19.099",
+    "label": "block_10"
+  },
+  {
+    "sentence": "My silence will soon speak in thunder.",
+    "toneSig": "¡19.100",
+    "label": "block_10"
+  },
+  {
+    "sentence": "They’ll see what I’ve been swallowing for years.",
+    "toneSig": "¡19.101",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I hope they notice the absence of kindness next time.",
+    "toneSig": "¡19.102",
+    "label": "block_10"
+  },
+  {
+    "sentence": "It’s not vengeance—it’s earned disapproval.",
+    "toneSig": "¡19.103",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I’ve given my last quiet nod—it’s war in stillness now.",
+    "toneSig": "¡19.104",
+    "label": "block_10"
+  },
+  {
+    "sentence": "They’ve awakened resentment that speaks in cold fire.",
+    "toneSig": "¡19.105",
+    "label": "block_10"
+  }
+]

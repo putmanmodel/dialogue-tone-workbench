@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+.env/
+.env.*
+.venv/
+
+# Streamlit
+.streamlit/
+
+# Mac / OS junk
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# Outputs (keep structure, ignore generated files)
+outputs/*.json
+outputs/*.jsonl
+
+# Temporary files
+*.tmp
+*.temp
+
+# Python build artifacts
+build/
+dist/
+*.egg-info/
+
+# Jupyter (just in case)
+.ipynb_checkpoints/

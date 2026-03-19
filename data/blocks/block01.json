@@ -1,0 +1,517 @@
+[
+  {
+    "sentence": "I think we might need to address this soon.",
+    "toneSig": "¡10.000",
+    "label": "block_01"
+  },
+  {
+    "sentence": "We should probably keep an eye on it.",
+    "toneSig": "¡10.001",
+    "label": "block_01"
+  },
+  {
+    "sentence": "It might be time to look into this.",
+    "toneSig": "¡10.002",
+    "label": "block_01"
+  },
+  {
+    "sentence": "There could be a slight issue developing.",
+    "toneSig": "¡10.003",
+    "label": "block_01"
+  },
+  {
+    "sentence": "I’m starting to get a little concerned.",
+    "toneSig": "¡10.004",
+    "label": "block_01"
+  },
+  {
+    "sentence": "We should maybe check on that again.",
+    "toneSig": "¡10.005",
+    "label": "block_01"
+  },
+  {
+    "sentence": "I don’t want to alarm anyone, but something feels off.",
+    "toneSig": "¡10.006",
+    "label": "block_01"
+  },
+  {
+    "sentence": "I’m not sure if this is normal.",
+    "toneSig": "¡10.007",
+    "label": "block_01"
+  },
+  {
+    "sentence": "Have we double-checked everything?",
+    "toneSig": "¡10.008",
+    "label": "block_01"
+  },
+  {
+    "sentence": "There’s a chance we’ve missed something.",
+    "toneSig": "¡10.009",
+    "label": "block_01"
+  },
+  {
+    "sentence": "I'm feeling a bit uneasy about the outcome.",
+    "toneSig": "¡10.010",
+    "label": "block_01"
+  },
+  {
+    "sentence": "Maybe it’s just me, but things seem a little off-track.",
+    "toneSig": "¡10.011",
+    "label": "block_01"
+  },
+  {
+    "sentence": "Let’s not wait too long to make a move.",
+    "toneSig": "¡10.012",
+    "label": "block_01"
+  },
+  {
+    "sentence": "Do we have a backup plan?",
+    "toneSig": "¡10.013",
+    "label": "block_01"
+  },
+  {
+    "sentence": "What if things don’t go as expected?",
+    "toneSig": "¡10.014",
+    "label": "block_01"
+  },
+  {
+    "sentence": "I really hope this isn’t spiraling.",
+    "toneSig": "¡10.015",
+    "label": "block_01"
+  },
+  {
+    "sentence": "The timing here feels a little too tight.",
+    "toneSig": "¡10.016",
+    "label": "block_01"
+  },
+  {
+    "sentence": "It’s starting to feel more urgent than I thought.",
+    "toneSig": "¡10.017",
+    "label": "block_01"
+  },
+  {
+    "sentence": "We need to act, sooner rather than later.",
+    "toneSig": "¡10.018",
+    "label": "block_01"
+  },
+  {
+    "sentence": "I’m getting worried we’re falling behind.",
+    "toneSig": "¡10.019",
+    "label": "block_01"
+  },
+  {
+    "sentence": "The margin for error is shrinking quickly.",
+    "toneSig": "¡10.020",
+    "label": "block_01"
+  },
+  {
+    "sentence": "I can't stop thinking about this.",
+    "toneSig": "¡10.021",
+    "label": "block_01"
+  },
+  {
+    "sentence": "We’re cutting it close, very close.",
+    "toneSig": "¡10.022",
+    "label": "block_01"
+  },
+  {
+    "sentence": "This is weighing on me more than I expected.",
+    "toneSig": "¡10.023",
+    "label": "block_01"
+  },
+  {
+    "sentence": "I keep checking over everything again and again.",
+    "toneSig": "¡10.024",
+    "label": "block_01"
+  },
+  {
+    "sentence": "I just want to make sure we're ready for anything.",
+    "toneSig": "¡10.025",
+    "label": "block_01"
+  },
+  {
+    "sentence": "Is this too late already?",
+    "toneSig": "¡10.026",
+    "label": "block_01"
+  },
+  {
+    "sentence": "This delay is making me nervous.",
+    "toneSig": "¡10.027",
+    "label": "block_01"
+  },
+  {
+    "sentence": "Why hasn’t anyone followed up yet?",
+    "toneSig": "¡10.028",
+    "label": "block_01"
+  },
+  {
+    "sentence": "We should have gotten a response by now.",
+    "toneSig": "¡10.029",
+    "label": "block_01"
+  },
+  {
+    "sentence": "What if we’re already out of time?",
+    "toneSig": "¡10.030",
+    "label": "block_01"
+  },
+  {
+    "sentence": "There’s no room for another mistake.",
+    "toneSig": "¡10.031",
+    "label": "block_01"
+  },
+  {
+    "sentence": "We absolutely need clarity, now.",
+    "toneSig": "¡10.032",
+    "label": "block_01"
+  },
+  {
+    "sentence": "Why is it taking so long?",
+    "toneSig": "¡10.033",
+    "label": "block_01"
+  },
+  {
+    "sentence": "I think we’ve got a serious problem here.",
+    "toneSig": "¡10.034",
+    "label": "block_01"
+  },
+  {
+    "sentence": "We need to fix this before it spreads.",
+    "toneSig": "¡10.035",
+    "label": "block_01"
+  },
+  {
+    "sentence": "This could escalate fast.",
+    "toneSig": "¡10.036",
+    "label": "block_01"
+  },
+  {
+    "sentence": "No one’s responding—and that’s a huge red flag.",
+    "toneSig": "¡10.037",
+    "label": "block_01"
+  },
+  {
+    "sentence": "Everything feels too quiet.",
+    "toneSig": "¡10.038",
+    "label": "block_01"
+  },
+  {
+    "sentence": "I’m starting to panic just a little.",
+    "toneSig": "¡10.039",
+    "label": "block_01"
+  },
+  {
+    "sentence": "We need confirmation, immediately.",
+    "toneSig": "¡10.040",
+    "label": "block_01"
+  },
+  {
+    "sentence": "Please tell me someone’s handling this.",
+    "toneSig": "¡10.041",
+    "label": "block_01"
+  },
+  {
+    "sentence": "Something is definitely wrong.",
+    "toneSig": "¡10.042",
+    "label": "block_01"
+  },
+  {
+    "sentence": "We're not ready for this, are we?",
+    "toneSig": "¡10.043",
+    "label": "block_01"
+  },
+  {
+    "sentence": "There’s no cushion left for error.",
+    "toneSig": "¡10.044",
+    "label": "block_01"
+  },
+  {
+    "sentence": "We need full focus—right now.",
+    "toneSig": "¡10.045",
+    "label": "block_01"
+  },
+  {
+    "sentence": "This isn’t just a hiccup anymore.",
+    "toneSig": "¡10.046",
+    "label": "block_01"
+  },
+  {
+    "sentence": "It’s not under control.",
+    "toneSig": "¡10.047",
+    "label": "block_01"
+  },
+  {
+    "sentence": "I can't shake the feeling that something terrible is brewing.",
+    "toneSig": "¡10.048",
+    "label": "block_01"
+  },
+  {
+    "sentence": "Why is no one treating this with urgency?",
+    "toneSig": "¡10.049",
+    "label": "block_01"
+  },
+  {
+    "sentence": "We’re beyond the point of comfort here.",
+    "toneSig": "¡10.050",
+    "label": "block_01"
+  },
+  {
+    "sentence": "I think we're in real trouble.",
+    "toneSig": "¡10.051",
+    "label": "block_01"
+  },
+  {
+    "sentence": "Everything's slipping out of our hands.",
+    "toneSig": "¡10.052",
+    "label": "block_01"
+  },
+  {
+    "sentence": "Why haven’t we escalated this?",
+    "toneSig": "¡10.053",
+    "label": "block_01"
+  },
+  {
+    "sentence": "We need to sound the alarm.",
+    "toneSig": "¡10.054",
+    "label": "block_01"
+  },
+  {
+    "sentence": "I don’t think we’re going to make it without drastic action.",
+    "toneSig": "¡10.055",
+    "label": "block_01"
+  },
+  {
+    "sentence": "It’s worse than we thought.",
+    "toneSig": "¡10.056",
+    "label": "block_01"
+  },
+  {
+    "sentence": "Why isn’t anyone responding?",
+    "toneSig": "¡10.057",
+    "label": "block_01"
+  },
+  {
+    "sentence": "I’m on edge and it’s not just nerves.",
+    "toneSig": "¡10.058",
+    "label": "block_01"
+  },
+  {
+    "sentence": "This is serious—really serious.",
+    "toneSig": "¡10.059",
+    "label": "block_01"
+  },
+  {
+    "sentence": "We need someone to take control, now.",
+    "toneSig": "¡10.060",
+    "label": "block_01"
+  },
+  {
+    "sentence": "We're hanging by a thread.",
+    "toneSig": "¡10.061",
+    "label": "block_01"
+  },
+  {
+    "sentence": "I’m freaking out a little bit here.",
+    "toneSig": "¡10.062",
+    "label": "block_01"
+  },
+  {
+    "sentence": "Someone needs to step up right away.",
+    "toneSig": "¡10.063",
+    "label": "block_01"
+  },
+  {
+    "sentence": "This has gone too far.",
+    "toneSig": "¡10.064",
+    "label": "block_01"
+  },
+  {
+    "sentence": "No one seems to grasp the gravity of this!",
+    "toneSig": "¡10.065",
+    "label": "block_01"
+  },
+  {
+    "sentence": "This should've been fixed yesterday!",
+    "toneSig": "¡10.066",
+    "label": "block_01"
+  },
+  {
+    "sentence": "I can't breathe—this is too much.",
+    "toneSig": "¡10.067",
+    "label": "block_01"
+  },
+  {
+    "sentence": "We are officially in crisis mode.",
+    "toneSig": "¡10.068",
+    "label": "block_01"
+  },
+  {
+    "sentence": "It's spiraling—fast.",
+    "toneSig": "¡10.069",
+    "label": "block_01"
+  },
+  {
+    "sentence": "I'm not okay with how this is unfolding.",
+    "toneSig": "¡10.070",
+    "label": "block_01"
+  },
+  {
+    "sentence": "Every second counts now!",
+    "toneSig": "¡10.071",
+    "label": "block_01"
+  },
+  {
+    "sentence": "They HAVE to do something NOW!",
+    "toneSig": "¡10.072",
+    "label": "block_01"
+  },
+  {
+    "sentence": "People should be running to fix this!",
+    "toneSig": "¡10.073",
+    "label": "block_01"
+  },
+  {
+    "sentence": "If we wait another minute, it's over!",
+    "toneSig": "¡10.074",
+    "label": "block_01"
+  },
+  {
+    "sentence": "This is red-alert level panic.",
+    "toneSig": "¡10.075",
+    "label": "block_01"
+  },
+  {
+    "sentence": "Sound every alarm—this is a disaster.",
+    "toneSig": "¡10.076",
+    "label": "block_01"
+  },
+  {
+    "sentence": "I can't even think straight—do something!",
+    "toneSig": "¡10.077",
+    "label": "block_01"
+  },
+  {
+    "sentence": "We're in freefall!",
+    "toneSig": "¡10.078",
+    "label": "block_01"
+  },
+  {
+    "sentence": "WHY IS THIS STILL HAPPENING?",
+    "toneSig": "¡10.079",
+    "label": "block_01"
+  },
+  {
+    "sentence": "Everyone needs to mobilize RIGHT THIS SECOND!",
+    "toneSig": "¡10.080",
+    "label": "block_01"
+  },
+  {
+    "sentence": "This cannot wait even a moment longer!",
+    "toneSig": "¡10.081",
+    "label": "block_01"
+  },
+  {
+    "sentence": "Do whatever it takes—JUST FIX IT!",
+    "toneSig": "¡10.082",
+    "label": "block_01"
+  },
+  {
+    "sentence": "We’re in DEFCON 1!",
+    "toneSig": "¡10.083",
+    "label": "block_01"
+  },
+  {
+    "sentence": "This is code black!",
+    "toneSig": "¡10.084",
+    "label": "block_01"
+  },
+  {
+    "sentence": "I am literally shaking!",
+    "toneSig": "¡10.085",
+    "label": "block_01"
+  },
+  {
+    "sentence": "WHERE IS THE RESPONSE TEAM?",
+    "toneSig": "¡10.086",
+    "label": "block_01"
+  },
+  {
+    "sentence": "I’m about to lose it completely!",
+    "toneSig": "¡10.087",
+    "label": "block_01"
+  },
+  {
+    "sentence": "Everything’s falling apart and nobody is moving!",
+    "toneSig": "¡10.088",
+    "label": "block_01"
+  },
+  {
+    "sentence": "We are seconds away from catastrophe!",
+    "toneSig": "¡10.089",
+    "label": "block_01"
+  },
+  {
+    "sentence": "Why is no one screaming about this?!",
+    "toneSig": "¡10.090",
+    "label": "block_01"
+  },
+  {
+    "sentence": "I can't believe we're still talking!",
+    "toneSig": "¡10.091",
+    "label": "block_01"
+  },
+  {
+    "sentence": "EVERYTHING IS ON FIRE!",
+    "toneSig": "¡10.092",
+    "label": "block_01"
+  },
+  {
+    "sentence": "WHERE IS THE EMERGENCY ACTION?",
+    "toneSig": "¡10.093",
+    "label": "block_01"
+  },
+  {
+    "sentence": "IT'S ALREADY TOO LATE!",
+    "toneSig": "¡10.094",
+    "label": "block_01"
+  },
+  {
+    "sentence": "THIS IS A FULL-BLOWN CRISIS!",
+    "toneSig": "¡10.095",
+    "label": "block_01"
+  },
+  {
+    "sentence": "I CAN’T HANDLE THIS!",
+    "toneSig": "¡10.096",
+    "label": "block_01"
+  },
+  {
+    "sentence": "PLEASE—SOMEONE DO SOMETHING!",
+    "toneSig": "¡10.097",
+    "label": "block_01"
+  },
+  {
+    "sentence": "DO YOU NOT SEE WHAT'S HAPPENING?",
+    "toneSig": "¡10.098",
+    "label": "block_01"
+  },
+  {
+    "sentence": "WE HAVE TO STOP THIS RIGHT NOW!",
+    "toneSig": "¡10.099",
+    "label": "block_01"
+  },
+  {
+    "sentence": "IT’S COLLAPSING IN REAL TIME!",
+    "toneSig": "¡10.100",
+    "label": "block_01"
+  },
+  {
+    "sentence": "WE ARE NOT OKAY!",
+    "toneSig": "¡10.101",
+    "label": "block_01"
+  },
+  {
+    "sentence": "HELP! HELP! HELP!",
+    "toneSig": "¡10.102",
+    "label": "block_01"
+  }
+]

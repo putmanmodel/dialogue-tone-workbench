@@ -1,0 +1,522 @@
+[
+  {
+    "sentence": "I don't think that's acceptable.",
+    "toneSig": "¡17.001",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I'd rather you didn't do that.",
+    "toneSig": "¡17.002",
+    "label": "block_08"
+  },
+  {
+    "sentence": "That makes me uncomfortable.",
+    "toneSig": "¡17.003",
+    "label": "block_08"
+  },
+  {
+    "sentence": "Let's not go there.",
+    "toneSig": "¡17.004",
+    "label": "block_08"
+  },
+  {
+    "sentence": "You're crossing a line.",
+    "toneSig": "¡17.005",
+    "label": "block_08"
+  },
+  {
+    "sentence": "We need to be clear about boundaries.",
+    "toneSig": "¡17.006",
+    "label": "block_08"
+  },
+  {
+    "sentence": "That's not going to fly.",
+    "toneSig": "¡17.007",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I think you should reconsider.",
+    "toneSig": "¡17.008",
+    "label": "block_08"
+  },
+  {
+    "sentence": "You need to watch your step.",
+    "toneSig": "¡17.009",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I won't tolerate that kind of behavior.",
+    "toneSig": "¡17.010",
+    "label": "block_08"
+  },
+  {
+    "sentence": "It's important to stay respectful.",
+    "toneSig": "¡17.011",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I suggest you rethink your tone.",
+    "toneSig": "¡17.012",
+    "label": "block_08"
+  },
+  {
+    "sentence": "That’s not something I’ll stand by and let happen.",
+    "toneSig": "¡17.013",
+    "label": "block_08"
+  },
+  {
+    "sentence": "You’re not treating this situation with care.",
+    "toneSig": "¡17.014",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I'm going to push back on that.",
+    "toneSig": "¡17.015",
+    "label": "block_08"
+  },
+  {
+    "sentence": "You better back off now.",
+    "toneSig": "¡17.016",
+    "label": "block_08"
+  },
+  {
+    "sentence": "This isn't just about me—don’t test it.",
+    "toneSig": "¡17.017",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I’m not here for anyone's nonsense.",
+    "toneSig": "¡17.018",
+    "label": "block_08"
+  },
+  {
+    "sentence": "That crosses into dangerous territory.",
+    "toneSig": "¡17.019",
+    "label": "block_08"
+  },
+  {
+    "sentence": "You’re about to provoke the wrong reaction.",
+    "toneSig": "¡17.020",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I don't take lightly to threats.",
+    "toneSig": "¡17.021",
+    "label": "block_08"
+  },
+  {
+    "sentence": "The line's been crossed—step back.",
+    "toneSig": "¡17.022",
+    "label": "block_08"
+  },
+  {
+    "sentence": "You're messing with something I care about.",
+    "toneSig": "¡17.023",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I'm not afraid to respond accordingly.",
+    "toneSig": "¡17.024",
+    "label": "block_08"
+  },
+  {
+    "sentence": "That’s not bravado—it’s promise.",
+    "toneSig": "¡17.025",
+    "label": "block_08"
+  },
+  {
+    "sentence": "Mess around and find out.",
+    "toneSig": "¡17.026",
+    "label": "block_08"
+  },
+  {
+    "sentence": "If you push, I will push harder.",
+    "toneSig": "¡17.027",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I won’t sit quiet while harm circles close.",
+    "toneSig": "¡17.028",
+    "label": "block_08"
+  },
+  {
+    "sentence": "You’re walking right into a wall.",
+    "toneSig": "¡17.029",
+    "label": "block_08"
+  },
+  {
+    "sentence": "That’s my limit—do not proceed.",
+    "toneSig": "¡17.030",
+    "label": "block_08"
+  },
+  {
+    "sentence": "This is where I draw the line.",
+    "toneSig": "¡17.031",
+    "label": "block_08"
+  },
+  {
+    "sentence": "Touch it, and you’ll regret it.",
+    "toneSig": "¡17.032",
+    "label": "block_08"
+  },
+  {
+    "sentence": "There’s no room for compromise now.",
+    "toneSig": "¡17.033",
+    "label": "block_08"
+  },
+  {
+    "sentence": "The shield is up—the claws are next.",
+    "toneSig": "¡17.034",
+    "label": "block_08"
+  },
+  {
+    "sentence": "You've poked the quiet, now meet the roar.",
+    "toneSig": "¡17.035",
+    "label": "block_08"
+  },
+  {
+    "sentence": "You're threatening something sacred.",
+    "toneSig": "¡17.036",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I will not be passive while others are hurt.",
+    "toneSig": "¡17.037",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I won’t blink—I’ll charge.",
+    "toneSig": "¡17.038",
+    "label": "block_08"
+  },
+  {
+    "sentence": "Now you’ve made this personal.",
+    "toneSig": "¡17.039",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I protect what matters—and you're in the way.",
+    "toneSig": "¡17.040",
+    "label": "block_08"
+  },
+  {
+    "sentence": "Try me, and you’ll meet resistance head-on.",
+    "toneSig": "¡17.041",
+    "label": "block_08"
+  },
+  {
+    "sentence": "You don’t want to see the strength I hold back.",
+    "toneSig": "¡17.042",
+    "label": "block_08"
+  },
+  {
+    "sentence": "This is a promise, not a threat.",
+    "toneSig": "¡17.043",
+    "label": "block_08"
+  },
+  {
+    "sentence": "Back off before I make you.",
+    "toneSig": "¡17.044",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I won’t be gentle if provoked again.",
+    "toneSig": "¡17.045",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I fight for what’s mine—unapologetically.",
+    "toneSig": "¡17.046",
+    "label": "block_08"
+  },
+  {
+    "sentence": "You’d do well to retreat now.",
+    "toneSig": "¡17.047",
+    "label": "block_08"
+  },
+  {
+    "sentence": "You’ve underestimated the fire behind my calm.",
+    "toneSig": "¡17.048",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I don’t stand down—I lock in.",
+    "toneSig": "¡17.049",
+    "label": "block_08"
+  },
+  {
+    "sentence": "My guard’s up, and it’s loaded.",
+    "toneSig": "¡17.050",
+    "label": "block_08"
+  },
+  {
+    "sentence": "Play innocent all you like—you’ve crossed me.",
+    "toneSig": "¡17.051",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I will not hesitate to strike if necessary.",
+    "toneSig": "¡17.052",
+    "label": "block_08"
+  },
+  {
+    "sentence": "This is protection, sharpened and ready.",
+    "toneSig": "¡17.053",
+    "label": "block_08"
+  },
+  {
+    "sentence": "Your next move better be your exit.",
+    "toneSig": "¡17.054",
+    "label": "block_08"
+  },
+  {
+    "sentence": "Respect is no longer optional—it’s demanded.",
+    "toneSig": "¡17.055",
+    "label": "block_08"
+  },
+  {
+    "sentence": "That’s not a warning—it’s inevitability.",
+    "toneSig": "¡17.056",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I’m not backing away—I’m charging forward.",
+    "toneSig": "¡17.057",
+    "label": "block_08"
+  },
+  {
+    "sentence": "Make no mistake—I will defend at full force.",
+    "toneSig": "¡17.058",
+    "label": "block_08"
+  },
+  {
+    "sentence": "The perimeter is closed—violators will be handled.",
+    "toneSig": "¡17.059",
+    "label": "block_08"
+  },
+  {
+    "sentence": "You’ve activated the part of me built to fight.",
+    "toneSig": "¡17.060",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I’m done explaining—action is next.",
+    "toneSig": "¡17.061",
+    "label": "block_08"
+  },
+  {
+    "sentence": "You've crossed into territory guarded by fury.",
+    "toneSig": "¡17.062",
+    "label": "block_08"
+  },
+  {
+    "sentence": "This isn’t a scuffle—it’s a reckoning.",
+    "toneSig": "¡17.063",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I've warned you—now there's no cushion left.",
+    "toneSig": "¡17.064",
+    "label": "block_08"
+  },
+  {
+    "sentence": "You mess with what’s mine, you mess with me.",
+    "toneSig": "¡17.065",
+    "label": "block_08"
+  },
+  {
+    "sentence": "My patience has teeth.",
+    "toneSig": "¡17.066",
+    "label": "block_08"
+  },
+  {
+    "sentence": "You brought this on yourself.",
+    "toneSig": "¡17.067",
+    "label": "block_08"
+  },
+  {
+    "sentence": "No mercy for those who threaten my peace.",
+    "toneSig": "¡17.068",
+    "label": "block_08"
+  },
+  {
+    "sentence": "If you’re looking for a reaction, you’ve found it.",
+    "toneSig": "¡17.069",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I hold the line—and crush what crosses it.",
+    "toneSig": "¡17.070",
+    "label": "block_08"
+  },
+  {
+    "sentence": "This isn’t over—it’s escalation.",
+    "toneSig": "¡17.071",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I’m not here to negotiate—I’m here to end this.",
+    "toneSig": "¡17.072",
+    "label": "block_08"
+  },
+  {
+    "sentence": "When I protect, I don’t play fair—I play final.",
+    "toneSig": "¡17.073",
+    "label": "block_08"
+  },
+  {
+    "sentence": "You’ve unlocked the part of me that strikes first.",
+    "toneSig": "¡17.074",
+    "label": "block_08"
+  },
+  {
+    "sentence": "My defense is a storm, not a shield.",
+    "toneSig": "¡17.075",
+    "label": "block_08"
+  },
+  {
+    "sentence": "Every second you linger is a mistake.",
+    "toneSig": "¡17.076",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I stand guard—with fire in my fists.",
+    "toneSig": "¡17.077",
+    "label": "block_08"
+  },
+  {
+    "sentence": "My silence was strength—now it’s action.",
+    "toneSig": "¡17.078",
+    "label": "block_08"
+  },
+  {
+    "sentence": "You want a fight? I’ll give you a legacy.",
+    "toneSig": "¡17.079",
+    "label": "block_08"
+  },
+  {
+    "sentence": "You hurt what's mine—I break what's yours.",
+    "toneSig": "¡17.080",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I’m wired for war when it comes to protection.",
+    "toneSig": "¡17.081",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I defend with force and finish with fire.",
+    "toneSig": "¡17.082",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I don’t threaten—I deliver.",
+    "toneSig": "¡17.083",
+    "label": "block_08"
+  },
+  {
+    "sentence": "Your intrusion triggers retribution.",
+    "toneSig": "¡17.084",
+    "label": "block_08"
+  },
+  {
+    "sentence": "The rage is real—and it’s righteous.",
+    "toneSig": "¡17.085",
+    "label": "block_08"
+  },
+  {
+    "sentence": "There is no safer place than behind me—and no worse one in front.",
+    "toneSig": "¡17.086",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I will dismantle whatever endangers what I care for.",
+    "toneSig": "¡17.087",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I rise when others are cornered—fists first.",
+    "toneSig": "¡17.088",
+    "label": "block_08"
+  },
+  {
+    "sentence": "You’ll find no surrender in me—only teeth.",
+    "toneSig": "¡17.089",
+    "label": "block_08"
+  },
+  {
+    "sentence": "Protection is my fury sharpened into precision.",
+    "toneSig": "¡17.090",
+    "label": "block_08"
+  },
+  {
+    "sentence": "Step any closer and the wreckage begins.",
+    "toneSig": "¡17.091",
+    "label": "block_08"
+  },
+  {
+    "sentence": "My warnings are done—now comes the reckoning.",
+    "toneSig": "¡17.092",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I am a fortress with fangs.",
+    "toneSig": "¡17.093",
+    "label": "block_08"
+  },
+  {
+    "sentence": "You’ve stirred the wolf—not the watchdog.",
+    "toneSig": "¡17.094",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I walk with calm until I charge with fire.",
+    "toneSig": "¡17.095",
+    "label": "block_08"
+  },
+  {
+    "sentence": "You don’t earn my wrath—it finds you.",
+    "toneSig": "¡17.096",
+    "label": "block_08"
+  },
+  {
+    "sentence": "My silence was restraint—now it's war.",
+    "toneSig": "¡17.097",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I fight like roots defending forest fire.",
+    "toneSig": "¡17.098",
+    "label": "block_08"
+  },
+  {
+    "sentence": "Cross this line and you'll taste consequence.",
+    "toneSig": "¡17.099",
+    "label": "block_08"
+  },
+  {
+    "sentence": "Everything I protect becomes untouchable.",
+    "toneSig": "¡17.100",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I’m not just a shield—I’m the strike behind it.",
+    "toneSig": "¡17.101",
+    "label": "block_08"
+  },
+  {
+    "sentence": "You won’t get past me—you won’t get up from me.",
+    "toneSig": "¡17.102",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I burn for what I guard—and scorch what threatens.",
+    "toneSig": "¡17.103",
+    "label": "block_08"
+  },
+  {
+    "sentence": "This ends in your retreat or my wrath—your call.",
+    "toneSig": "¡17.104",
+    "label": "block_08"
+  }
+]

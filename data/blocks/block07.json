@@ -1,0 +1,537 @@
+[
+  {
+    "sentence": "It should be okay.",
+    "toneSig": "¡16.001",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Things might turn out fine.",
+    "toneSig": "¡16.002",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You’ll probably be alright.",
+    "toneSig": "¡16.003",
+    "label": "block_07"
+  },
+  {
+    "sentence": "I wouldn’t worry too much.",
+    "toneSig": "¡16.004",
+    "label": "block_07"
+  },
+  {
+    "sentence": "It’s not as bad as it seems.",
+    "toneSig": "¡16.005",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You’ll handle this, just like you always do.",
+    "toneSig": "¡16.006",
+    "label": "block_07"
+  },
+  {
+    "sentence": "I think this will settle down soon.",
+    "toneSig": "¡16.007",
+    "label": "block_07"
+  },
+  {
+    "sentence": "It's manageable, even if it's frustrating.",
+    "toneSig": "¡16.008",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You're not alone in this.",
+    "toneSig": "¡16.009",
+    "label": "block_07"
+  },
+  {
+    "sentence": "We’ll get through it, one step at a time.",
+    "toneSig": "¡16.010",
+    "label": "block_07"
+  },
+  {
+    "sentence": "There’s no rush to solve everything at once.",
+    "toneSig": "¡16.011",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You've got time to sort things out.",
+    "toneSig": "¡16.012",
+    "label": "block_07"
+  },
+  {
+    "sentence": "This moment won’t last forever.",
+    "toneSig": "¡16.013",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You're stronger than you realize.",
+    "toneSig": "¡16.014",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Little by little, it gets better.",
+    "toneSig": "¡16.015",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You've come through worse before.",
+    "toneSig": "¡16.016",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You’re making progress, even if it’s slow.",
+    "toneSig": "¡16.017",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You’re doing more than enough.",
+    "toneSig": "¡16.018",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Nobody expects perfection.",
+    "toneSig": "¡16.019",
+    "label": "block_07"
+  },
+  {
+    "sentence": "The pressure will ease eventually.",
+    "toneSig": "¡16.020",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Take a breath—there’s space to think.",
+    "toneSig": "¡16.021",
+    "label": "block_07"
+  },
+  {
+    "sentence": "I'm here with you, quietly cheering.",
+    "toneSig": "¡16.022",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Let’s give it time—things unfold.",
+    "toneSig": "¡16.023",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You’ve got this, even if it doesn’t feel like it yet.",
+    "toneSig": "¡16.024",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You’re doing your best, and that truly matters.",
+    "toneSig": "¡16.025",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You’re allowed to take breaks.",
+    "toneSig": "¡16.026",
+    "label": "block_07"
+  },
+  {
+    "sentence": "It’s okay to feel unsure sometimes.",
+    "toneSig": "¡16.027",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Even now, you’re holding it together beautifully.",
+    "toneSig": "¡16.028",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Progress can be quiet—it still counts.",
+    "toneSig": "¡16.029",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You’re doing better than you think.",
+    "toneSig": "¡16.030",
+    "label": "block_07"
+  },
+  {
+    "sentence": "We can go at your pace.",
+    "toneSig": "¡16.031",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You're not failing—you're learning.",
+    "toneSig": "¡16.032",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You’ve got people who care.",
+    "toneSig": "¡16.033",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Nothing about this defines you.",
+    "toneSig": "¡16.034",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You're allowed to feel, and still move forward.",
+    "toneSig": "¡16.035",
+    "label": "block_07"
+  },
+  {
+    "sentence": "This challenge will pass like others have.",
+    "toneSig": "¡16.036",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You don’t have to be perfect to be amazing.",
+    "toneSig": "¡16.037",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You’re doing something brave just by showing up.",
+    "toneSig": "¡16.038",
+    "label": "block_07"
+  },
+  {
+    "sentence": "It’s alright to lean on support.",
+    "toneSig": "¡16.039",
+    "label": "block_07"
+  },
+  {
+    "sentence": "What you feel is valid, and you’re still capable.",
+    "toneSig": "¡16.040",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Let’s take the pressure off—gently.",
+    "toneSig": "¡16.041",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You're allowed to take the easy route today.",
+    "toneSig": "¡16.042",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Even messy efforts are powerful.",
+    "toneSig": "¡16.043",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You’re still moving, even in uncertainty.",
+    "toneSig": "¡16.044",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You don’t need to fix everything this second.",
+    "toneSig": "¡16.045",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Healing isn’t linear, and that’s normal.",
+    "toneSig": "¡16.046",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You are showing resilience in quiet ways.",
+    "toneSig": "¡16.047",
+    "label": "block_07"
+  },
+  {
+    "sentence": "There’s gentleness in your strength.",
+    "toneSig": "¡16.048",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You’ve earned the right to exhale.",
+    "toneSig": "¡16.049",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You’re enough, right here and now.",
+    "toneSig": "¡16.050",
+    "label": "block_07"
+  },
+  {
+    "sentence": "There’s no shame in needing time.",
+    "toneSig": "¡16.051",
+    "label": "block_07"
+  },
+  {
+    "sentence": "I see your effort, and I admire it.",
+    "toneSig": "¡16.052",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You’re not lost—just navigating.",
+    "toneSig": "¡16.053",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Rest is a form of courage too.",
+    "toneSig": "¡16.054",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Every time you try again, that’s bravery.",
+    "toneSig": "¡16.055",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You're not behind—you’re on your path.",
+    "toneSig": "¡16.056",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You carry quiet grace in tough moments.",
+    "toneSig": "¡16.057",
+    "label": "block_07"
+  },
+  {
+    "sentence": "This feeling doesn’t get the final say.",
+    "toneSig": "¡16.058",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You’re more capable than your doubts.",
+    "toneSig": "¡16.059",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You’re the steady center amid the noise.",
+    "toneSig": "¡16.060",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Kindness toward yourself changes everything.",
+    "toneSig": "¡16.061",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Let your breath guide you out of the storm.",
+    "toneSig": "¡16.062",
+    "label": "block_07"
+  },
+  {
+    "sentence": "There’s light behind the clouds.",
+    "toneSig": "¡16.063",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You already have everything you need to begin again.",
+    "toneSig": "¡16.064",
+    "label": "block_07"
+  },
+  {
+    "sentence": "I believe in you wholeheartedly.",
+    "toneSig": "¡16.065",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You bring quiet magic to difficult days.",
+    "toneSig": "¡16.066",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You’re not just surviving—you’re evolving.",
+    "toneSig": "¡16.067",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You are crafting something remarkable from this mess.",
+    "toneSig": "¡16.068",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Even now, you radiate quiet resilience.",
+    "toneSig": "¡16.069",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You’re a steady flame in turbulent winds.",
+    "toneSig": "¡16.070",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Let softness be your strength today.",
+    "toneSig": "¡16.071",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Everything you’re feeling is held with compassion.",
+    "toneSig": "¡16.072",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Your story deserves patience and love.",
+    "toneSig": "¡16.073",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Grace finds you—even when you stumble.",
+    "toneSig": "¡16.074",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Your presence brings calm into chaos.",
+    "toneSig": "¡16.075",
+    "label": "block_07"
+  },
+  {
+    "sentence": "No need to push—gentle steps still count.",
+    "toneSig": "¡16.076",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You're writing a beautiful chapter in real time.",
+    "toneSig": "¡16.077",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You are the calm within the storm.",
+    "toneSig": "¡16.078",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Your pace is perfect, even when slow.",
+    "toneSig": "¡16.079",
+    "label": "block_07"
+  },
+  {
+    "sentence": "There’s nothing you need to prove to be worthy.",
+    "toneSig": "¡16.080",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You were never meant to rush healing.",
+    "toneSig": "¡16.081",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Your courage whispers louder than doubt ever could.",
+    "toneSig": "¡16.082",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Let yourself be held by comfort.",
+    "toneSig": "¡16.083",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You shine—especially when unsure.",
+    "toneSig": "¡16.084",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You are building strength through tenderness.",
+    "toneSig": "¡16.085",
+    "label": "block_07"
+  },
+  {
+    "sentence": "There’s warmth woven into every choice you make.",
+    "toneSig": "¡16.086",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Even your silence speaks of endurance.",
+    "toneSig": "¡16.087",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You're rooted, even if the wind howls.",
+    "toneSig": "¡16.088",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Every breath you take resets your grace.",
+    "toneSig": "¡16.089",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Your softness is your superpower.",
+    "toneSig": "¡16.090",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You're glowing with quiet determination.",
+    "toneSig": "¡16.091",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You are deeply brave for staying present.",
+    "toneSig": "¡16.092",
+    "label": "block_07"
+  },
+  {
+    "sentence": "This pain is temporary—your grace is not.",
+    "toneSig": "¡16.093",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You embody perseverance, gently.",
+    "toneSig": "¡16.094",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You are magnificent in your uncertainty.",
+    "toneSig": "¡16.095",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Your heartbeat carries calm intention.",
+    "toneSig": "¡16.096",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You hold healing in your palms, even now.",
+    "toneSig": "¡16.097",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You are unfolding beautifully under pressure.",
+    "toneSig": "¡16.098",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You are a lighthouse in your own fog.",
+    "toneSig": "¡16.099",
+    "label": "block_07"
+  },
+  {
+    "sentence": "This journey bends, but it doesn't break you.",
+    "toneSig": "¡16.100",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Your power is wrapped in kindness.",
+    "toneSig": "¡16.101",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You’re a balm to your own wounds.",
+    "toneSig": "¡16.102",
+    "label": "block_07"
+  },
+  {
+    "sentence": "I see your heart, and it’s radiant.",
+    "toneSig": "¡16.103",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You are luminous in the face of difficulty.",
+    "toneSig": "¡16.104",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You are rewriting hope in real time.",
+    "toneSig": "¡16.105",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You are sacred, even in unraveling.",
+    "toneSig": "¡16.106",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You’ve become a gentle force of nature.",
+    "toneSig": "¡16.107",
+    "label": "block_07"
+  }
+]

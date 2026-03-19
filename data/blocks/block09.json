@@ -1,0 +1,542 @@
+[
+  {
+    "sentence": "That sounds kind of cool.",
+    "toneSig": "¡18.001",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I think I could enjoy that.",
+    "toneSig": "¡18.002",
+    "label": "block_09"
+  },
+  {
+    "sentence": "Hmm, this might be worth checking out.",
+    "toneSig": "¡18.003",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I'm interested, honestly.",
+    "toneSig": "¡18.004",
+    "label": "block_09"
+  },
+  {
+    "sentence": "That’s definitely caught my eye.",
+    "toneSig": "¡18.005",
+    "label": "block_09"
+  },
+  {
+    "sentence": "Something about this feels promising.",
+    "toneSig": "¡18.006",
+    "label": "block_09"
+  },
+  {
+    "sentence": "Alright, I’m leaning toward excited.",
+    "toneSig": "¡18.007",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I'm genuinely curious now.",
+    "toneSig": "¡18.008",
+    "label": "block_09"
+  },
+  {
+    "sentence": "There's something here that clicks with me.",
+    "toneSig": "¡18.009",
+    "label": "block_09"
+  },
+  {
+    "sentence": "Honestly? I’m smiling a little.",
+    "toneSig": "¡18.010",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I feel a spark—it’s small but real.",
+    "toneSig": "¡18.011",
+    "label": "block_09"
+  },
+  {
+    "sentence": "That idea is quietly thrilling.",
+    "toneSig": "¡18.012",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I’ve got a good feeling about this.",
+    "toneSig": "¡18.013",
+    "label": "block_09"
+  },
+  {
+    "sentence": "This could lead somewhere exciting.",
+    "toneSig": "¡18.014",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I’m starting to feel the buzz.",
+    "toneSig": "¡18.015",
+    "label": "block_09"
+  },
+  {
+    "sentence": "This is building up to something special.",
+    "toneSig": "¡18.016",
+    "label": "block_09"
+  },
+  {
+    "sentence": "Alright, now we’re talking.",
+    "toneSig": "¡18.017",
+    "label": "block_09"
+  },
+  {
+    "sentence": "Okay, I’m pretty into this now.",
+    "toneSig": "¡18.018",
+    "label": "block_09"
+  },
+  {
+    "sentence": "The energy around this is contagious.",
+    "toneSig": "¡18.019",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I’m officially excited.",
+    "toneSig": "¡18.020",
+    "label": "block_09"
+  },
+  {
+    "sentence": "There’s some magic brewing here.",
+    "toneSig": "¡18.021",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I can’t stop thinking about it.",
+    "toneSig": "¡18.022",
+    "label": "block_09"
+  },
+  {
+    "sentence": "This really lights me up inside.",
+    "toneSig": "¡18.023",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I’m looking forward to it more than I expected.",
+    "toneSig": "¡18.024",
+    "label": "block_09"
+  },
+  {
+    "sentence": "My enthusiasm is waking up.",
+    "toneSig": "¡18.025",
+    "label": "block_09"
+  },
+  {
+    "sentence": "That just made my day.",
+    "toneSig": "¡18.026",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I’m seriously hyped right now.",
+    "toneSig": "¡18.027",
+    "label": "block_09"
+  },
+  {
+    "sentence": "This has me grinning for real.",
+    "toneSig": "¡18.028",
+    "label": "block_09"
+  },
+  {
+    "sentence": "There’s something electric about this.",
+    "toneSig": "¡18.029",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I'm getting really amped up!",
+    "toneSig": "¡18.030",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I can feel my heartbeat speeding up!",
+    "toneSig": "¡18.031",
+    "label": "block_09"
+  },
+  {
+    "sentence": "This is everything I hoped for!",
+    "toneSig": "¡18.032",
+    "label": "block_09"
+  },
+  {
+    "sentence": "This is beyond cool—it’s exhilarating!",
+    "toneSig": "¡18.033",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I’m counting down the minutes now!",
+    "toneSig": "¡18.034",
+    "label": "block_09"
+  },
+  {
+    "sentence": "It’s just so thrilling!",
+    "toneSig": "¡18.035",
+    "label": "block_09"
+  },
+  {
+    "sentence": "My whole mood shifted—this is exciting!",
+    "toneSig": "¡18.036",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I’m bouncing in my chair over here!",
+    "toneSig": "¡18.037",
+    "label": "block_09"
+  },
+  {
+    "sentence": "Is it weird how pumped I am?",
+    "toneSig": "¡18.038",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I'm bursting with anticipation!",
+    "toneSig": "¡18.039",
+    "label": "block_09"
+  },
+  {
+    "sentence": "This feels like fireworks inside!",
+    "toneSig": "¡18.040",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I’m on the edge of my seat!",
+    "toneSig": "¡18.041",
+    "label": "block_09"
+  },
+  {
+    "sentence": "Let’s gooooo!",
+    "toneSig": "¡18.042",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I can’t sit still—this is too exciting!",
+    "toneSig": "¡18.043",
+    "label": "block_09"
+  },
+  {
+    "sentence": "That gave me actual chills!",
+    "toneSig": "¡18.044",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I don’t think I’ve ever been this thrilled!",
+    "toneSig": "¡18.045",
+    "label": "block_09"
+  },
+  {
+    "sentence": "The possibilities here are mind-blowing!",
+    "toneSig": "¡18.046",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I want to shout it from rooftops!",
+    "toneSig": "¡18.047",
+    "label": "block_09"
+  },
+  {
+    "sentence": "This has my full attention—1000% engaged!",
+    "toneSig": "¡18.048",
+    "label": "block_09"
+  },
+  {
+    "sentence": "Pure joy is happening right now!",
+    "toneSig": "¡18.049",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I can't stop smiling!",
+    "toneSig": "¡18.050",
+    "label": "block_09"
+  },
+  {
+    "sentence": "Yes yes YES!",
+    "toneSig": "¡18.051",
+    "label": "block_09"
+  },
+  {
+    "sentence": "My soul is dancing!",
+    "toneSig": "¡18.052",
+    "label": "block_09"
+  },
+  {
+    "sentence": "This is like discovering treasure!",
+    "toneSig": "¡18.053",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I’m absolutely obsessed!",
+    "toneSig": "¡18.054",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I could scream—I love this so much!",
+    "toneSig": "¡18.055",
+    "label": "block_09"
+  },
+  {
+    "sentence": "My brain is exploding with excitement!",
+    "toneSig": "¡18.056",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I want to be part of this instantly!",
+    "toneSig": "¡18.057",
+    "label": "block_09"
+  },
+  {
+    "sentence": "Why is this so ridiculously amazing?",
+    "toneSig": "¡18.058",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I'm freaking out a little—in the best way!",
+    "toneSig": "¡18.059",
+    "label": "block_09"
+  },
+  {
+    "sentence": "This is dopamine overload!",
+    "toneSig": "¡18.060",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I feel like I’m glowing!",
+    "toneSig": "¡18.061",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I need everyone to know about this!",
+    "toneSig": "¡18.062",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I'm clapping with joy right now!",
+    "toneSig": "¡18.063",
+    "label": "block_09"
+  },
+  {
+    "sentence": "My heart is doing backflips!",
+    "toneSig": "¡18.064",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I can't believe how much I love this!",
+    "toneSig": "¡18.065",
+    "label": "block_09"
+  },
+  {
+    "sentence": "This energy is too good!",
+    "toneSig": "¡18.066",
+    "label": "block_09"
+  },
+  {
+    "sentence": "It’s like lightning in my chest!",
+    "toneSig": "¡18.067",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I feel like I could fly!",
+    "toneSig": "¡18.068",
+    "label": "block_09"
+  },
+  {
+    "sentence": "This is next-level incredible!",
+    "toneSig": "¡18.069",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I’m throwing virtual confetti!",
+    "toneSig": "¡18.070",
+    "label": "block_09"
+  },
+  {
+    "sentence": "This is my favorite thing today!",
+    "toneSig": "¡18.071",
+    "label": "block_09"
+  },
+  {
+    "sentence": "My excitement is OUT OF CONTROL!",
+    "toneSig": "¡18.072",
+    "label": "block_09"
+  },
+  {
+    "sentence": "Someone bottle this moment!",
+    "toneSig": "¡18.073",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I’m officially giddy!",
+    "toneSig": "¡18.074",
+    "label": "block_09"
+  },
+  {
+    "sentence": "Everything inside me says YES!",
+    "toneSig": "¡18.075",
+    "label": "block_09"
+  },
+  {
+    "sentence": "This just set my happiness meter to max!",
+    "toneSig": "¡18.076",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I can’t calm down—it’s too good!",
+    "toneSig": "¡18.077",
+    "label": "block_09"
+  },
+  {
+    "sentence": "Please let this last forever!",
+    "toneSig": "¡18.078",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I’m vibrating with enthusiasm!",
+    "toneSig": "¡18.079",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I wish I could high-five the universe!",
+    "toneSig": "¡18.080",
+    "label": "block_09"
+  },
+  {
+    "sentence": "It’s like my dreams are waking up!",
+    "toneSig": "¡18.081",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I’m beaming like the sun!",
+    "toneSig": "¡18.082",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I want to jump up and down!",
+    "toneSig": "¡18.083",
+    "label": "block_09"
+  },
+  {
+    "sentence": "Let’s launch into this amazingness!",
+    "toneSig": "¡18.084",
+    "label": "block_09"
+  },
+  {
+    "sentence": "My joy has reached critical mass!",
+    "toneSig": "¡18.085",
+    "label": "block_09"
+  },
+  {
+    "sentence": "This feels like pure wonder!",
+    "toneSig": "¡18.086",
+    "label": "block_09"
+  },
+  {
+    "sentence": "My eyes just lit up!",
+    "toneSig": "¡18.087",
+    "label": "block_09"
+  },
+  {
+    "sentence": "Every fiber of me says GO!",
+    "toneSig": "¡18.088",
+    "label": "block_09"
+  },
+  {
+    "sentence": "This is a celebration in sentence form!",
+    "toneSig": "¡18.089",
+    "label": "block_09"
+  },
+  {
+    "sentence": "YES x infinity!",
+    "toneSig": "¡18.090",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I’m giggling from sheer joy!",
+    "toneSig": "¡18.091",
+    "label": "block_09"
+  },
+  {
+    "sentence": "This moment belongs in a highlight reel!",
+    "toneSig": "¡18.092",
+    "label": "block_09"
+  },
+  {
+    "sentence": "It’s the best kind of overwhelming!",
+    "toneSig": "¡18.093",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I’m sparkling with excitement!",
+    "toneSig": "¡18.094",
+    "label": "block_09"
+  },
+  {
+    "sentence": "It’s like a party in my chest!",
+    "toneSig": "¡18.095",
+    "label": "block_09"
+  },
+  {
+    "sentence": "This is joy turned up to eleven!",
+    "toneSig": "¡18.096",
+    "label": "block_09"
+  },
+  {
+    "sentence": "My spirit is high-fiving the stars!",
+    "toneSig": "¡18.097",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I’m singing with excitement—literally!",
+    "toneSig": "¡18.098",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I need a cape because I’m soaring!",
+    "toneSig": "¡18.099",
+    "label": "block_09"
+  },
+  {
+    "sentence": "My entire vibe is ecstatic!",
+    "toneSig": "¡18.100",
+    "label": "block_09"
+  },
+  {
+    "sentence": "The thrill is cosmic!",
+    "toneSig": "¡18.101",
+    "label": "block_09"
+  },
+  {
+    "sentence": "This is happiness on a roller coaster!",
+    "toneSig": "¡18.102",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I’m glowing brighter than a supernova!",
+    "toneSig": "¡18.103",
+    "label": "block_09"
+  },
+  {
+    "sentence": "Nothing has ever felt so exhilarating!",
+    "toneSig": "¡18.104",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I’m in awe—wild, glorious awe!",
+    "toneSig": "¡18.105",
+    "label": "block_09"
+  },
+  {
+    "sentence": "My excitement has transcended time and space!",
+    "toneSig": "¡18.106",
+    "label": "block_09"
+  },
+  {
+    "sentence": "This is a festival of delight inside me!",
+    "toneSig": "¡18.107",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I’m joy-struck beyond repair!",
+    "toneSig": "¡18.108",
+    "label": "block_09"
+  }
+]

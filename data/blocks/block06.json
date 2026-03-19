@@ -1,0 +1,527 @@
+[
+  {
+    "sentence": "Please follow the procedure.",
+    "toneSig": "¡15.000",
+    "label": "block_06"
+  },
+  {
+    "sentence": "That's the standard policy.",
+    "toneSig": "¡15.001",
+    "label": "block_06"
+  },
+  {
+    "sentence": "The decision has already been made.",
+    "toneSig": "¡15.002",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Let's move on with the protocol.",
+    "toneSig": "¡15.003",
+    "label": "block_06"
+  },
+  {
+    "sentence": "These are the parameters we're working with.",
+    "toneSig": "¡15.004",
+    "label": "block_06"
+  },
+  {
+    "sentence": "I expect you to comply without delay.",
+    "toneSig": "¡15.005",
+    "label": "block_06"
+  },
+  {
+    "sentence": "This is not open for discussion.",
+    "toneSig": "¡15.006",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Keep communication formal and minimal.",
+    "toneSig": "¡15.007",
+    "label": "block_06"
+  },
+  {
+    "sentence": "You'll receive further instruction shortly.",
+    "toneSig": "¡15.008",
+    "label": "block_06"
+  },
+  {
+    "sentence": "The timeline will not be adjusted.",
+    "toneSig": "¡15.009",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Stick to the directive.",
+    "toneSig": "¡15.010",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Avoid deviations from the approved structure.",
+    "toneSig": "¡15.011",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Consider this final notice.",
+    "toneSig": "¡15.012",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Proceed as instructed.",
+    "toneSig": "¡15.013",
+    "label": "block_06"
+  },
+  {
+    "sentence": "This course has been determined.",
+    "toneSig": "¡15.014",
+    "label": "block_06"
+  },
+  {
+    "sentence": "No alternatives are being considered.",
+    "toneSig": "¡15.015",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Adjustments are not permitted.",
+    "toneSig": "¡15.016",
+    "label": "block_06"
+  },
+  {
+    "sentence": "You are expected to meet expectations.",
+    "toneSig": "¡15.017",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Do not challenge the framework.",
+    "toneSig": "¡15.018",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Silence will be interpreted as compliance.",
+    "toneSig": "¡15.019",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Disruptions are not tolerated.",
+    "toneSig": "¡15.020",
+    "label": "block_06"
+  },
+  {
+    "sentence": "The requirements are non-negotiable.",
+    "toneSig": "¡15.021",
+    "label": "block_06"
+  },
+  {
+    "sentence": "No feedback is required at this time.",
+    "toneSig": "¡15.022",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Follow the hierarchy.",
+    "toneSig": "¡15.023",
+    "label": "block_06"
+  },
+  {
+    "sentence": "This message is not a request.",
+    "toneSig": "¡15.024",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Reactions are unnecessary.",
+    "toneSig": "¡15.025",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Maintain professionalism.",
+    "toneSig": "¡15.026",
+    "label": "block_06"
+  },
+  {
+    "sentence": "This is the operating condition.",
+    "toneSig": "¡15.027",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Execute accordingly.",
+    "toneSig": "¡15.028",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Your approval is not needed.",
+    "toneSig": "¡15.029",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Delay is unacceptable.",
+    "toneSig": "¡15.030",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Questions will be addressed later—if relevant.",
+    "toneSig": "¡15.031",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Stick to the chain of command.",
+    "toneSig": "¡15.032",
+    "label": "block_06"
+  },
+  {
+    "sentence": "We are proceeding with or without your input.",
+    "toneSig": "¡15.033",
+    "label": "block_06"
+  },
+  {
+    "sentence": "There is no allowance for hesitation.",
+    "toneSig": "¡15.034",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Expect enforcement.",
+    "toneSig": "¡15.035",
+    "label": "block_06"
+  },
+  {
+    "sentence": "This is not a debate.",
+    "toneSig": "¡15.036",
+    "label": "block_06"
+  },
+  {
+    "sentence": "You are under evaluation.",
+    "toneSig": "¡15.037",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Your role is to implement, not revise.",
+    "toneSig": "¡15.038",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Performance is expected without instruction.",
+    "toneSig": "¡15.039",
+    "label": "block_06"
+  },
+  {
+    "sentence": "You know what needs to be done—do it.",
+    "toneSig": "¡15.040",
+    "label": "block_06"
+  },
+  {
+    "sentence": "This is your directive—adhere or be replaced.",
+    "toneSig": "¡15.041",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Failure to act will be noted.",
+    "toneSig": "¡15.042",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Noncompliance has consequences.",
+    "toneSig": "¡15.043",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Respond only when necessary.",
+    "toneSig": "¡15.044",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Do not test the limits.",
+    "toneSig": "¡15.045",
+    "label": "block_06"
+  },
+  {
+    "sentence": "This is already in motion.",
+    "toneSig": "¡15.046",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Expect no grace period.",
+    "toneSig": "¡15.047",
+    "label": "block_06"
+  },
+  {
+    "sentence": "The structure is rigid—for a reason.",
+    "toneSig": "¡15.048",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Respect the boundary or face escalation.",
+    "toneSig": "¡15.049",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Submission is not optional.",
+    "toneSig": "¡15.050",
+    "label": "block_06"
+  },
+  {
+    "sentence": "You're here to serve the function, not the ego.",
+    "toneSig": "¡15.051",
+    "label": "block_06"
+  },
+  {
+    "sentence": "The window for cooperation is closing.",
+    "toneSig": "¡15.052",
+    "label": "block_06"
+  },
+  {
+    "sentence": "You will not be consulted further.",
+    "toneSig": "¡15.053",
+    "label": "block_06"
+  },
+  {
+    "sentence": "This is formal notification—your time has narrowed.",
+    "toneSig": "¡15.054",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Your autonomy has been suspended.",
+    "toneSig": "¡15.055",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Immediate adjustment is required.",
+    "toneSig": "¡15.056",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Challenge will be met with correction.",
+    "toneSig": "¡15.057",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Complacency will be eliminated.",
+    "toneSig": "¡15.058",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Strict adherence is now monitored.",
+    "toneSig": "¡15.059",
+    "label": "block_06"
+  },
+  {
+    "sentence": "You are subject to review.",
+    "toneSig": "¡15.060",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Compliance must be demonstrable.",
+    "toneSig": "¡15.061",
+    "label": "block_06"
+  },
+  {
+    "sentence": "This oversight is by design.",
+    "toneSig": "¡15.062",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Visibility is total.",
+    "toneSig": "¡15.063",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Deviation is now marked.",
+    "toneSig": "¡15.064",
+    "label": "block_06"
+  },
+  {
+    "sentence": "There is no refuge in delay.",
+    "toneSig": "¡15.065",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Your margin for error is gone.",
+    "toneSig": "¡15.066",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Performance is your only currency.",
+    "toneSig": "¡15.067",
+    "label": "block_06"
+  },
+  {
+    "sentence": "We will proceed with precision, regardless of resistance.",
+    "toneSig": "¡15.068",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Expectation is dominance—not dialogue.",
+    "toneSig": "¡15.069",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Do not mistake civility for softness.",
+    "toneSig": "¡15.070",
+    "label": "block_06"
+  },
+  {
+    "sentence": "This is the final phase of tolerance.",
+    "toneSig": "¡15.071",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Correction is no longer private.",
+    "toneSig": "¡15.072",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Restraint has been removed.",
+    "toneSig": "¡15.073",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Control is no longer distributed.",
+    "toneSig": "¡15.074",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Every movement is quantified and ranked.",
+    "toneSig": "¡15.075",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Ambiguity has been eliminated.",
+    "toneSig": "¡15.076",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Silence is now a signal.",
+    "toneSig": "¡15.077",
+    "label": "block_06"
+  },
+  {
+    "sentence": "We are optimizing without sentiment.",
+    "toneSig": "¡15.078",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Warmth will not be restored.",
+    "toneSig": "¡15.079",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Authority has bypassed consent.",
+    "toneSig": "¡15.080",
+    "label": "block_06"
+  },
+  {
+    "sentence": "You are now under directive force.",
+    "toneSig": "¡15.081",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Emotion is not permitted within this chamber.",
+    "toneSig": "¡15.082",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Feedback loops have been severed.",
+    "toneSig": "¡15.083",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Redirection will be imposed.",
+    "toneSig": "¡15.084",
+    "label": "block_06"
+  },
+  {
+    "sentence": "All dissent will be erased.",
+    "toneSig": "¡15.085",
+    "label": "block_06"
+  },
+  {
+    "sentence": "This is a locked system.",
+    "toneSig": "¡15.086",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Benevolence has expired.",
+    "toneSig": "¡15.087",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Resistance is irrelevant.",
+    "toneSig": "¡15.088",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Oversight is omnipresent.",
+    "toneSig": "¡15.089",
+    "label": "block_06"
+  },
+  {
+    "sentence": "You are not part of the design.",
+    "toneSig": "¡15.090",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Questions will be processed for deletion.",
+    "toneSig": "¡15.091",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Your role is silent execution.",
+    "toneSig": "¡15.092",
+    "label": "block_06"
+  },
+  {
+    "sentence": "This structure does not recognize disagreement.",
+    "toneSig": "¡15.093",
+    "label": "block_06"
+  },
+  {
+    "sentence": "All deviation will be routed to termination.",
+    "toneSig": "¡15.094",
+    "label": "block_06"
+  },
+  {
+    "sentence": "You will conform or dissolve.",
+    "toneSig": "¡15.095",
+    "label": "block_06"
+  },
+  {
+    "sentence": "This is your final compliance checkpoint.",
+    "toneSig": "¡15.096",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Rejection of protocol activates isolation.",
+    "toneSig": "¡15.097",
+    "label": "block_06"
+  },
+  {
+    "sentence": "We do not require your identity.",
+    "toneSig": "¡15.098",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Obedience is your only asset.",
+    "toneSig": "¡15.099",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Directive override has engaged.",
+    "toneSig": "¡15.100",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Neutrality has been extinguished.",
+    "toneSig": "¡15.101",
+    "label": "block_06"
+  },
+  {
+    "sentence": "The system no longer accommodates variance.",
+    "toneSig": "¡15.102",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Your function is now absolute subordination.",
+    "toneSig": "¡15.103",
+    "label": "block_06"
+  },
+  {
+    "sentence": "This is cold precision at peak enforcement.",
+    "toneSig": "¡15.104",
+    "label": "block_06"
+  }
+]
