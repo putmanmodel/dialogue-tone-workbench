@@ -9,7 +9,7 @@ Current status: Dialogue Tone Workbench is a credible working prototype. Normali
 The active corpus is filtered for conversational DTW-compatible inputs. Obvious alarm-burst, non-conversational distress, and a small amount of high-intensity future-use material are preserved in the source blocks and tracked separately through reviewed corpus metadata.
 
 
-![Dialogue Tone Workbench Screenshot](assets/dialogue-tone-workbench-screenshot.png)
+**Live app:** [dialogue-tone-workbench.streamlit.app](https://dialogue-tone-workbench.streamlit.app/)
 
 ### Live App
 https://dialogue-tone-workbench.streamlit.app/
